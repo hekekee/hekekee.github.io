@@ -1,0 +1,79 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Heikki Stark</title>
+		<link>https://heke.io/posts/</link>
+		<description>Recent content in Posts on Heikki Stark</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 29 Jul 2019 14:08:56 +0300</lastBuildDate>
+		<atom:link href="https://heke.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>My history of mech keebs</title>
+			<link>https://heke.io/posts/my-history-of-mech-keebs/</link>
+			<pubDate>Mon, 29 Jul 2019 14:08:56 +0300</pubDate>
+			
+			<guid>https://heke.io/posts/my-history-of-mech-keebs/</guid>
+			<description>DISCLAIMER! These are my own opinions and your mileage may vary. I am just a geek who decided to document &amp;ldquo;projects&amp;rdquo; by making blog posts about them.
+Bad gaming peripherals I have a &amp;ldquo;thing&amp;rdquo; for &amp;ldquo;things&amp;rdquo; that are used for writing. I love pencils and keyboards, but don&amp;rsquo;t know why. My history with PC peripherals was filled with gaming branded accessories for a good while, when I got into computers (and computer science).</description>
+			<content type="html"><![CDATA[
+
+<p><em><strong>DISCLAIMER!</strong> These are my own opinions and your mileage may vary. I am just a geek who decided to document &ldquo;projects&rdquo; by making blog posts about them.</em></p>
+
+<h2 id="bad-gaming-peripherals">Bad gaming peripherals</h2>
+
+<p>I have a &ldquo;thing&rdquo; for &ldquo;things&rdquo; that are used for writing. I love pencils and keyboards, but don&rsquo;t know why. My history with PC peripherals was filled with gaming branded accessories for a good while, when I got into computers (and computer science). The downfall for gaming peripherals for me was when my quite expsenive gaming headset broke after two years of use. That seems to be the norm for gaming branded things. I went to forums to check for recommendations. People recommended <a href="https://www.thomann.de/gb/superlux_hd_330.htm">Superlux HD-330 headphones</a> and a microphone from eBay for ~1€. I decided that it was so cheap of a combo, that I wouldn&rsquo;t lose that much money even if they sucked. Lucky for me, the combo was the best headset that I&rsquo;ve ever had. Superlux HD-330 is often compared to <a href="https://www.thomann.de/gb/beyerdynamic_dt770pro.htm">Beyerdynamic DT-770</a> or <a href="https://www.thomann.de/gb/beyerdynamic_dt990pro.htm">DT-990</a> (+100€ more expensive headphones). HD-330s are a great bang for buck.</p>
+
+<p>After getting the headset combo, I started questioning every gaming peripheral that I had. The biggest &ldquo;scam&rdquo; was the gaming mechanic keyboard, Logitech G710+ with Cherry MX Brown switches.</p>
+
+<p><img src="/images/diy-keeb/g710+.png" alt="Logitech G710+" />
+The keycaps were <a href="https://www.reddit.com/r/MechanicalKeyboards/comments/3igxyy/logitech_g710_keycaps_are_breaking_at_the_stem/">awful</a>, the build quality was bad and the whole keyboard was made of plastic. I didn&rsquo;t see the horrible quality as a big downside at that time, but now looking back at it, it was really bad.</p>
+
+<h2 id="how-i-ended-up-with-my-current-keeb">How I ended up with my current keeb</h2>
+
+<p>When I got the Logitech G710+, I didn&rsquo;t know any better. After spilling some juice on the keyboard, I decided to check some non-gaming branded keyboards. I read lots of good about Vortex Pok3r. Vortex Pok3r is a 60% keyboard, so it lacks the usual keys, like numpad, arrow keys and function rows. The quality is so much better, than any gaming keyboard that I&rsquo;ve tried. Biggest selling point in Pok3r for me was the aluminium case, which none of the gaming keyboards (at that time at least) didn&rsquo;t offer.</p>
+
+<p><img src="/images/diy-keeb/pok3r.jpg" alt="My Pok3r with a DIY USB-cable" />
+<em>My Pok3r with a DIY USB-cable</em></p>
+
+<p>Pok3r was a pretty good keyboard, but something was still missing. It was the arrow keys. There is always a workaround for the missing keys, for example a <em>function button</em>. In Pok3r, the arrow keys were behind <code>FN</code>-key and <code>I, J, K, L</code>-keys. For my heavy use of Imgur, that was too hard. Way too hard. Luckily, there are other layouts that would work better for me. After extensive lurking in <code>r/mechanicalkeyboards</code> I decided that the 65% layout would be perfect for me. It had couple more modifier keys (check picture below) <strong>and</strong> the arrow keys that I was missing so much.</p>
+
+<p><img src="/images/diy-keeb/tada68.jpg" alt="My TADA68 at Mechkeeb FIN meetup 2018" />
+<em>My TADA68 at Mechkeeb FIN meetup 2018. ©Olli Granlund</em></p>
+
+<h2 id="iso-vs-ansi">ISO vs. ANSI</h2>
+
+<p>I got my TADA68 from <a href="https://kbdfans.com/">KBDfans</a> pre-assembled with a ISO-layout. ISO-layout is probably the most common in Nordic countries (like in Finland). Some European countries use ISO layout as well. Basically rest of the world uses so called ANSI-layout. The biggest difference probably is the big <code>Enter</code>-key in ISO. Some prefer ANSI over ISO, but I prefer ISO. Might be because I&rsquo;ve used ISO my whole life. Some developers say that they might switch from ANSI layout to ISO during their day. This is because in US layout, lots of special characters are easier to type, especially brackets and <code>/</code>-character, which are heavily used in coding/developing.</p>
+
+<p><img src="/images/diy-keeb/layouts.png" alt="Keyboard layouts from Wikipedia" />
+<em>Keyboard layouts from</em> <a href="https://en.wikipedia.org/wiki/Keyboard_layout"><em>Wikipedia article</em></a>.</p>
+
+<h2 id="compiling-firmware">Compiling firmware</h2>
+
+<p>Out-of-the-factory, TADA68 PCB supports both ANSI- and ISO-layouts, but you have to modify your firmware, to have all the keys working. Usually the <code>&lt;&gt;|</code>-key doesn&rsquo;t work &ldquo;out-of-the-box&rdquo;. This is where QMK comes in. QMK is a open-source firmware for keyboards, that use certain micro-controllers. At first the idea of compiling and flashing a custom firmware seemed like a bad idea, it wasn&rsquo;t as bad as I thought. The process is a bit heavier than your-go-to-gaming-keyboards-gaming-GUI, but the positive side is that you don&rsquo;t need any 3rd party drivers or software to use every feature of your keyboard.</p>
+
+<p>You can do anything and everything with QMK. There are some web applications, where you can customize layouts and compile a binary file for your keyboard. I can&rsquo;t recommend any web application that does it, since I found several, but none supported ISO-layout (at that time). You can also <code>git clone</code> QMK repository from <a href="https://github.com/qmk/qmk_firmware">GitHub</a> and compile it yourself. I am familiar with Unix, so it was a natural choice for me. Everything is customizable with QMK. You can make a whole keyboard to be a macropad if you want.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I usually hear comments like</p>
+
+<blockquote>
+<p>Why buy a keyboard with less keys for more expensive prices?!</p>
+</blockquote>
+
+<p>or something like</p>
+
+<blockquote>
+<p>2019, who gives a crap about keyboards?!</p>
+</blockquote>
+
+<p>Honestly, I don&rsquo;t have all the answers. I just find that typing on a really nice keyboard is nice. When talking about prices, the <a href="https://kbdfans.com/collections/fully-assembled-keyboard/products/tada68-mechanical-keyboard-65-iso-layout">TADA68 with aluminium case</a> is around the same price as some of the &ldquo;luxury&rdquo; gaming keyboards.</p>
+
+<p>I am aware that keyboards as a &ldquo;hobby&rdquo; is very niché and that not everyone understands it. And not everyone has to understand for you to enjoy it. Personally I just love typing :)</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
