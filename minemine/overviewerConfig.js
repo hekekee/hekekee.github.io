@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1579021180",
+        "cacheTag": "1579538600",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,14 +42,14 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Best minehaaste ever",
-            "zoomLevels": 7,
+            "zoomLevels": 8,
             "defaultZoom": 3,
-            "maxZoom": 7,
+            "maxZoom": 8,
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "2020 Minehaaste",
-            "last_rendertime": 1579013128,
+            "last_rendertime": 1579528398,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
