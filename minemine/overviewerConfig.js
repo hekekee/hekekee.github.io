@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1580225526",
+        "cacheTag": "1580302728",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "2020 Minehaaste",
-            "last_rendertime": 1580133480,
+            "last_rendertime": 1580298699,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
