@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/hekeke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://heke.io
+  * I am hekeke (https://keybase.io/hekeke) on keybase.
+  * I have a public key with fingerprint AE0C 250C 49ED 9059 7C76  7007 C621 CFF0 E957 D909
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d3b5dd2eb8496a851107725366a3878c432eef3d033417d8ab8be44312f971e30a",
+      "fingerprint": "ae0c250c49ed90597c767007c621cff0e957d909",
+      "host": "keybase.io",
+      "key_id": "c621cff0e957d909",
+      "kid": "0101d3b5dd2eb8496a851107725366a3878c432eef3d033417d8ab8be44312f971e30a",
+      "uid": "31f5055329d39333e44ec227163e9619",
+      "username": "hekeke"
+    },
+    "service": {
+      "hostname": "heke.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1584217447,
+  "expire_in": 157680000,
+  "prev": "f6e96586b438d440ff330fe5c3f37907276667deb8e02456b1208bed41eea6b2",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIcAnicrVJJaBRBFJ1xTcYIgwoaGTx0ROcQY3VVV1f3aMANyRiXgwgaokMv1TNN
+ku6e7p6YGKInRZFgcpjB5aBEUKLx5IIKxgWJGyguARE3xJMbSsSYRB2ro4IHj1Yd
+ivr/vfff//zrU8eHImEyJbbm6mapJXznamcutKWpOt3GqbbeyiXauAY69tBGnXp+
+qsHUuQQHeMDrSMW6DqkqCbKoSJjnASEQI1FUkEQkTUCQUgPpACGBJ7qkqJJKBQHx
+0JAJTxFQuErOMK00dR3XtHwmq1CgQQw0Qaa6DLBMNCISAIgmQl4zDEBlTFhCZsSM
+7QUMZk5VPFpl2izGPqkxe//A/2ffuTE5xBsYYIygrCMZIcRgVIOQ8CKissgHdXMe
+dS2liTJ0hjawy7VXcizWbGo0GGvQx1/5X404ru3bmt0YBH3f8RIByW91AtRWqqZ+
+81OqaelsgIzRTF3PtC0uwTOk5puBII8lAfJEEEglR1sc06UpM0BgIkqAnaAObWaS
+hsjcYklUBSTpggAMAyFgUKwhAxEZEEhEUSQ6mxgFUMCiykPAZqILPKWKqEIu6Chr
+2VwCMZtKmkl6ZtpS/JzL2r12pX5CKBwJTZo4LlisUKQ0+mfdag9PLtbduGd0vxy9
+HFl7b3igC/tm49n6c48veoVs9ma+7u2o1vdj0coLc18V8vlbJU97T0a2dszLPq3Z
++f2uM9xee7zBuq+8Hxo/IX50cemyD7G2o7UbLj3r7q25vS8z++ueyyXZvm/5GTMH
+Mj3Oq1TN4JLisffvvDfarALqLPs8q756esnpOSd2RM+U7V++LX5nfmyGDXuWPFJ7
+C50uN82r2v46vi3Z/7L/lJH0yhd0RCpeP5y69/qBpY/vl0+rGqyIb8e3Vh351I1G
+kpEz64RozF2/YlOx1Fk4kkkWYw+ewyugLlztnd91xChWtC994UTfHOza/fHJ0KEB
+ePbF6o1f+vt6fgJ84Tm8
+=PBLf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hekeke
+
+==================================================================
