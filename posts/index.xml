@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Heikki Stark</title>
@@ -6,72 +7,437 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Mon, 29 Jul 2019 14:08:56 +0300</lastBuildDate>
+		<lastBuildDate>Tue, 12 May 2020 20:07:19 +0300</lastBuildDate>
 		<atom:link href="https://heke.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>My history of mech keebs</title>
-			<link>https://heke.io/posts/my-history-of-mech-keebs/</link>
-			<pubDate>Mon, 29 Jul 2019 14:08:56 +0300</pubDate>
+			<title>Keyboard portfolio</title>
+			<link>https://heke.io/posts/keyboard-portfolio/</link>
+			<pubDate>Tue, 12 May 2020 20:07:19 +0300</pubDate>
 			
-			<guid>https://heke.io/posts/my-history-of-mech-keebs/</guid>
-			<description>DISCLAIMER! These are my own opinions and your mileage may vary. I am just a geek who decided to document &amp;ldquo;projects&amp;rdquo; by making blog posts about them.
-Bad gaming peripherals I have a &amp;ldquo;thing&amp;rdquo; for &amp;ldquo;things&amp;rdquo; that are used for writing. I love pencils and keyboards, but don&amp;rsquo;t know why. My history with PC peripherals was filled with gaming branded accessories for a good while, when I got into computers (and computer science).</description>
+			<guid>https://heke.io/posts/keyboard-portfolio/</guid>
+			<description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact: Siinä vaiheessa kun @VilleErkkila sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 #kiehucreative #mechkeebs https://t.co/bHgIcgo6nj
+&amp;mdash; Heikki Stark (@heikkistark) April 30, 2020  For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video.</description>
 			<content type="html"><![CDATA[
 
-<p><em><strong>DISCLAIMER!</strong> These are my own opinions and your mileage may vary. I am just a geek who decided to document &ldquo;projects&rdquo; by making blog posts about them.</em></p>
+<p>Recently I&rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact:
+<blockquote class="twitter-tweet"><p lang="fi" dir="ltr">Siinä vaiheessa kun <a href="https://twitter.com/VilleErkkila?ref_src=twsrc%5Etfw">@VilleErkkila</a> sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 <a href="https://twitter.com/hashtag/kiehucreative?src=hash&amp;ref_src=twsrc%5Etfw">#kiehucreative</a> <a href="https://twitter.com/hashtag/mechkeebs?src=hash&amp;ref_src=twsrc%5Etfw">#mechkeebs</a> <a href="https://t.co/bHgIcgo6nj">https://t.co/bHgIcgo6nj</a></p>&mdash; Heikki Stark (@heikkistark) <a href="https://twitter.com/heikkistark/status/1255893851308462080?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
-<h2 id="bad-gaming-peripherals">Bad gaming peripherals</h2>
+<p>For this video, I want to give a short shoutout to <a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a> and Kiehu Creative for coming up with the idea and filming the amazing video. This whole video was shot on my old apartment, in a quite smallish place and didn&rsquo;t even take that long to shoot! Altogether it was a fun evening with keebs and cameras and friends.</p>
 
-<p>I have a &ldquo;thing&rdquo; for &ldquo;things&rdquo; that are used for writing. I love pencils and keyboards, but don&rsquo;t know why. My history with PC peripherals was filled with gaming branded accessories for a good while, when I got into computers (and computer science). The downfall for gaming peripherals for me was when my quite expsenive gaming headset broke after two years of use. That seems to be the norm for gaming branded things. I went to forums to check for recommendations. People recommended <a href="https://www.thomann.de/gb/superlux_hd_330.htm">Superlux HD-330 headphones</a> and a microphone from eBay for ~1€. I decided that it was so cheap of a combo, that I wouldn&rsquo;t lose that much money even if they sucked. Lucky for me, the combo was the best headset that I&rsquo;ve ever had. Superlux HD-330 is often compared to <a href="https://www.thomann.de/gb/beyerdynamic_dt770pro.htm">Beyerdynamic DT-770</a> or <a href="https://www.thomann.de/gb/beyerdynamic_dt990pro.htm">DT-990</a> (+100€ more expensive headphones). HD-330s are a great bang for buck.</p>
+<p>The reason I am doing this &ldquo;portfolio&rdquo; is that I think this might be the best way to show people what kind of custom keyboards I&rsquo;ve been building/assembling/consulting/whatever.</p>
 
-<p>After getting the headset combo, I started questioning every gaming peripheral that I had. The biggest &ldquo;scam&rdquo; was the gaming mechanic keyboard, Logitech G710+ with Cherry MX Brown switches.</p>
+<h2 id="my-keyboards">My keyboards</h2>
 
-<p><img src="/images/diy-keeb/g710+.png" alt="Logitech G710+" />
-The keycaps were <a href="https://www.reddit.com/r/MechanicalKeyboards/comments/3igxyy/logitech_g710_keycaps_are_breaking_at_the_stem/">awful</a>, the build quality was bad and the whole keyboard was made of plastic. I didn&rsquo;t see the horrible quality as a big downside at that time, but now looking back at it, it was really bad.</p>
+<h3 id="kbd67-rev-2-0">KBD67 rev 2.0</h3>
 
-<h2 id="how-i-ended-up-with-my-current-keeb">How I ended up with my current keeb</h2>
+<p>On the contrary of common belief, I don&rsquo;t collect keyboards. I only have two keyboards - one for home and one for work.</p>
 
-<p>When I got the Logitech G710+, I didn&rsquo;t know any better. After spilling some juice on the keyboard, I decided to check some non-gaming branded keyboards. I read lots of good about Vortex Pok3r. Vortex Pok3r is a 60% keyboard, so it lacks the usual keys, like numpad, arrow keys and function rows. The quality is so much better, than any gaming keyboard that I&rsquo;ve tried. Biggest selling point in Pok3r for me was the aluminium case, which none of the gaming keyboards (at that time at least) didn&rsquo;t offer.</p>
+<figure>
+    <img src="/images/hekeke2.jpg"
+         alt="My daily driver, KBD67 rev2.0. © Olli Granlund"/> <figcaption>
+            <p>My daily driver, KBD67 rev2.0. © Olli Granlund</p>
+        </figcaption>
+</figure>
 
-<p><img src="/images/diy-keeb/pok3r.jpg" alt="My Pok3r with a DIY USB-cable" />
-<em>My Pok3r with a DIY USB-cable</em></p>
 
-<p>Pok3r was a pretty good keyboard, but something was still missing. It was the arrow keys. There is always a workaround for the missing keys, for example a <em>function button</em>. In Pok3r, the arrow keys were behind <code>FN</code>-key and <code>I, J, K, L</code>-keys. For my heavy use of Imgur, that was too hard. Way too hard. Luckily, there are other layouts that would work better for me. After extensive lurking in <code>r/mechanicalkeyboards</code> I decided that the 65% layout would be perfect for me. It had couple more modifier keys (check picture below) <strong>and</strong> the arrow keys that I was missing so much.</p>
+<p>This one is my &ldquo;daily driver&rdquo; and my current &ldquo;endgame&rdquo; keyboard. The only thing that I am missing is a wireless PCB. It seems that the technology to do wireless custom keyboards is not just there. I have made a few <a href="https://twitter.com/heikkistark/status/1220427738760327170">USB-cables</a> myself, so that the cable looks pretty neat, but I&rsquo;d love to have a full wireless setup.</p>
 
-<p><img src="/images/diy-keeb/tada68.jpg" alt="My TADA68 at Mechkeeb FIN meetup 2018" />
-<em>My TADA68 at Mechkeeb FIN meetup 2018. ©Olli Granlund</em></p>
+<p>Here are the exact specs of my #1 keyboard:</p>
 
-<h2 id="iso-vs-ansi">ISO vs. ANSI</h2>
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Part name</th>
+</tr>
+</thead>
 
-<p>I got my TADA68 from <a href="https://kbdfans.com/">KBDfans</a> pre-assembled with a ISO-layout. ISO-layout is probably the most common in Nordic countries (like in Finland). Some European countries use ISO layout as well. Basically rest of the world uses so called ANSI-layout. The biggest difference probably is the big <code>Enter</code>-key in ISO. Some prefer ANSI over ISO, but I prefer ISO. Might be because I&rsquo;ve used ISO my whole life. Some developers say that they might switch from ANSI layout to ISO during their day. This is because in US layout, lots of special characters are easier to type, especially brackets and <code>/</code>-character, which are heavily used in coding/developing.</p>
+<tbody>
+<tr>
+<td>PCB</td>
+<td>KBD67 rev 2.0 USB-C</td>
+</tr>
 
-<p><img src="/images/diy-keeb/layouts.png" alt="Keyboard layouts from Wikipedia" />
-<em>Keyboard layouts from</em> <a href="https://en.wikipedia.org/wiki/Keyboard_layout"><em>Wikipedia article</em></a>.</p>
+<tr>
+<td>Switches</td>
+<td>Zilents v2 62g (lubed with Superlube)</td>
+</tr>
 
-<h2 id="compiling-firmware">Compiling firmware</h2>
+<tr>
+<td>Case</td>
+<td>KBDfans low-profile aluminium case, black</td>
+</tr>
 
-<p>Out-of-the-factory, TADA68 PCB supports both ANSI- and ISO-layouts, but you have to modify your firmware, to have all the keys working. Usually the <code>&lt;&gt;|</code>-key doesn&rsquo;t work &ldquo;out-of-the-box&rdquo;. This is where QMK comes in. QMK is a open-source firmware for keyboards, that use certain micro-controllers. At first the idea of compiling and flashing a custom firmware seemed like a bad idea, it wasn&rsquo;t as bad as I thought. The process is a bit heavier than your-go-to-gaming-keyboards-gaming-GUI, but the positive side is that you don&rsquo;t need any 3rd party drivers or software to use every feature of your keyboard.</p>
+<tr>
+<td>Plate</td>
+<td>Brass Plate</td>
+</tr>
 
-<p>You can do anything and everything with QMK. There are some web applications, where you can customize layouts and compile a binary file for your keyboard. I can&rsquo;t recommend any web application that does it, since I found several, but none supported ISO-layout (at that time). You can also <code>git clone</code> QMK repository from <a href="https://github.com/qmk/qmk_firmware">GitHub</a> and compile it yourself. I am familiar with Unix, so it was a natural choice for me. Everything is customizable with QMK. You can make a whole keyboard to be a macropad if you want.</p>
+<tr>
+<td>Keycaps</td>
+<td>GMK Wavez</td>
+</tr>
 
-<h2 id="conclusion">Conclusion</h2>
+<tr>
+<td>Stabilizers</td>
+<td>GMK Screw-in (clipped, band-aid and heatshrink modded)</td>
+</tr>
+</tbody>
+</table>
 
-<p>I usually hear comments like</p>
+<p>With this keyboard I tried to aim for as silent as possible keyboard, which I think I succeeded in pretty well, except for the spacebar. That thing is still loud, because of the long stabilizers that the spacebar uses. That rattle sound is pretty hard to get rid of, even with modified stabilizers.</p>
 
-<blockquote>
-<p>Why buy a keyboard with less keys for more expensive prices?!</p>
-</blockquote>
+<h3 id="dz60-rev-3-0">DZ60 rev 3.0</h3>
 
-<p>or something like</p>
+<p>This one is my keyboard, that I (sometimes) have with me at work.</p>
 
-<blockquote>
-<p>2019, who gives a crap about keyboards?!</p>
-</blockquote>
+<figure>
+    <img src="/images/hekeke1.jpg"
+         alt="DZ60 rev 3.0. © Olli Granlund"/> <figcaption>
+            <p>DZ60 rev 3.0. © Olli Granlund</p>
+        </figcaption>
+</figure>
 
-<p>Honestly, I don&rsquo;t have all the answers. I just find that typing on a really nice keyboard is nice. When talking about prices, the <a href="https://kbdfans.com/collections/fully-assembled-keyboard/products/tada68-mechanical-keyboard-65-iso-layout">TADA68 with aluminium case</a> is around the same price as some of the &ldquo;luxury&rdquo; gaming keyboards.</p>
 
-<p>I am aware that keyboards as a &ldquo;hobby&rdquo; is very niché and that not everyone understands it. And not everyone has to understand for you to enjoy it. Personally I just love typing :)</p>
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Part name</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>PCB</td>
+<td>DZ60 rev 3.0 USB-C</td>
+</tr>
+
+<tr>
+<td>Switches</td>
+<td>Zilents v2 62g (lubed with Superlube)</td>
+</tr>
+
+<tr>
+<td>Case</td>
+<td>KBDfans low-profile aluminium case, red</td>
+</tr>
+
+<tr>
+<td>Plate</td>
+<td>Alumium plate</td>
+</tr>
+
+<tr>
+<td>Keycaps</td>
+<td>NPKC Blank rainbow keycaps</td>
+</tr>
+
+<tr>
+<td>Stabilizers</td>
+<td>GMK Screw-in (clipped)</td>
+</tr>
+</tbody>
+</table>
+
+<p>For this being a keyboard I keep at work, it had to be as small and quiet as possible. I don&rsquo;t want to be <em>the guy with the loud clickety clackety clacker keyboard</em>. What is special about this, is that the normal 60% layout keyboards don&rsquo;t have dedicated arrow keys. By using a smaller left shift and 1U sized right shift, you can squeeze in the arrow keys. This is one of the best things when getting a custom keyboard, you get exactly what you want. I&rsquo;ve had colleagues say that the sound of this keyboard is pretty pleasant and not disturbing. The keycaps are rainbow, because they were the cheapest around that time :)</p>
+
+<p>This was also my very first custom keyboard that I&rsquo;ve built.</p>
+
+<h2 id="commissions">Commissions</h2>
+
+<p>Most of the keyboards that I&rsquo;ve built has been commissions and I&rsquo;ve streamed a few of them on my <a href="https://twitch.tv/hekeke">Twitch channel</a>. There a lot of people have asked questions and I&rsquo;ve answered them on livestream. I&rsquo;ve gotten a few questions regarding my commission prices as well. My pricing is:</p>
+
+<ul>
+<li>40€ assembled keyboard, regardless of size</li>
+<li>60€ same as earlier, but with <em>lubed switches</em></li>
+<li>15€+ for custom cables. Not suitable for phone charging :(</li>
+</ul>
+
+<p>The whole process with lubing can take up to 6-8 hours. Without lubing almost the whole assembly process can go in under 4 hours.</p>
+
+<p>The price range of parts for a whole keyboard usually go from 150€ to infinity. My keyboards are both priced over 300€, but I didn&rsquo;t try to cheap-out on them. A 150€ custom keyboard is still a really good keyboard!</p>
+
+<h3 id="dz60">DZ60</h3>
+
+<p>The most common type of keyboard that I&rsquo;ve built is a DZ60 keyboard. It is a pretty cheap, but it still has pretty good features.</p>
+
+<p>I won&rsquo;t go too much in to the details of these, since they are almost clones of each other.</p>
+
+<figure>
+    <img src="/images/dz601.jpg"
+         alt="DZ60, Zilents v2 65g, acrylic TOFU case and amazing artisan keycaps"/> <figcaption>
+            <p>DZ60, Zilents v2 65g, acrylic TOFU case and amazing artisan keycaps</p>
+        </figcaption>
+</figure>
+
+
+<p>This one has a pretty cool theme going on. It has a few artisan keycaps and the spacebar is making me jealous as heck. The USB-cable is made by me, it has a aviator GX14 connector and MDPC sleeves. The DZ60 has underglow LEDs and it shines nicely through the slightly frosted acrylic TOFU case.</p>
+
+<p>Thanks <a href="https://www.twitch.tv/lepijopi">LepiJopi</a> for this project!</p>
+
+<figure>
+    <img src="/images/dz602.jpg"
+         alt="DZ60, Zilents v2 67g, aluminium TOFU case"/> <figcaption>
+            <p>DZ60, Zilents v2 67g, aluminium TOFU case</p>
+        </figcaption>
+</figure>
+
+
+<p>What&rsquo;s cool in this project, was the case. TOFU case weighs <em>a lot</em>. The 60% version is a chunk of aluminium.</p>
+
+<h3 id="kbd67-rev-2-0-1">KBD67 rev 2.0</h3>
+
+<p>This one was made for <a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a>, they guy who made the most of the earlier video.</p>
+
+<figure>
+    <img src="/images/kbd67.jpg"
+         alt="KBD67 rev2.0"/> <figcaption>
+            <p>KBD67 rev2.0</p>
+        </figcaption>
+</figure>
+
+
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Part name</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>PCB</td>
+<td>KBD67 rev 2.0 USB-C</td>
+</tr>
+
+<tr>
+<td>Switches</td>
+<td>Zilents v2 62g (lubed with Superlube)</td>
+</tr>
+
+<tr>
+<td>Case</td>
+<td>Aluminium TOFU case, purple</td>
+</tr>
+
+<tr>
+<td>Plate</td>
+<td>Aluminium Plate</td>
+</tr>
+
+<tr>
+<td>Keycaps</td>
+<td>NPKC sunset gradient keycaps</td>
+</tr>
+
+<tr>
+<td>Stabilizers</td>
+<td>GMK Screw-in (clipped, band-aid  modded)</td>
+</tr>
+</tbody>
+</table>
+
+<p>The coolest thing about this project was once again the weight. I remember weighting this keyboard and the scale showed something around 1,5 - 2,0 kg. That is a lot of weight for a keyboard of this size. The case also has a brass weight on the bottom.</p>
+
+<h3 id="wonderland-lubrigante">Wonderland Lubrigante</h3>
+
+<p>This has been the most interesting project for me.</p>
+
+<figure>
+    <img src="/images/wonderland.jpg"
+         alt="Wonderland Lubrigante. © Olli Granlund"/> <figcaption>
+            <p>Wonderland Lubrigante. © Olli Granlund</p>
+        </figcaption>
+</figure>
+
+
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Part name</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>PCB</td>
+<td>Wonderland</td>
+</tr>
+
+<tr>
+<td>Switches</td>
+<td>Gateron Silent Ink Black (lubed with Krytox)</td>
+</tr>
+
+<tr>
+<td>Case</td>
+<td>Lubrigante acrylic case</td>
+</tr>
+
+<tr>
+<td>Plate</td>
+<td>Integrated</td>
+</tr>
+
+<tr>
+<td>Keycaps</td>
+<td>GMK 9009</td>
+</tr>
+
+<tr>
+<td>Stabilizers</td>
+<td>GMK Screw-in</td>
+</tr>
+</tbody>
+</table>
+
+<p>To get something special like this, you need to be kinda active in the keyboard community. These things are ordered with a group-buy format. If you are too late to the party, you may need to wait a long time for the keyboard parts to go for a new round. If you get to the group-buy, you still have to wait for the parts to be finish manufacturing.</p>
+
+<p>This is a split ergonomic keyboard. The idea is that when you rest your hands on top of they keyboard, they sit on a more natural position.</p>
+
+<p>Thanks <a href="https://www.instagram.com/pajamaen_pedro/">ElPedró</a> for this epic project!</p>
+
+<h3 id="kbd75v2">KBD75v2</h3>
+
+<figure>
+    <img src="/images/kbd75.jpg"
+         alt="KBD75v2"/> <figcaption>
+            <p>KBD75v2</p>
+        </figcaption>
+</figure>
+
+
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Part name</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>PCB</td>
+<td>KBD75v2 USB-C</td>
+</tr>
+
+<tr>
+<td>Switches</td>
+<td>Gateron Silent Ink Black (lubed with RO-59tmKT)</td>
+</tr>
+
+<tr>
+<td>Case</td>
+<td>Aluminium KBD75v2 case</td>
+</tr>
+
+<tr>
+<td>Plate</td>
+<td>Brass plate</td>
+</tr>
+
+<tr>
+<td>Keycaps</td>
+<td>Tai-Hao Miami PBT keycaps</td>
+</tr>
+
+<tr>
+<td>Stabilizers</td>
+<td>Cherry Screw-in (clipped, band-aid modded)</td>
+</tr>
+</tbody>
+</table>
+
+<p>Yet again, one heavy keyboard. KBD75v2 PCB also has underglow LED lights, so the red stripe you can see in the picture has a smooth glow, which can be customized to your liking. The 75% layout includes a full F-row (<code>F1</code> to <code>F12</code> buttons). The KBD75v2 also supports a numpad, but then you have to make bigger compromises.</p>
+
+<p>This one is for my good friend <a href="https://twitter.com/JoakimTauren">Joakim</a>!</p>
+
+<h1 id="questions-answers">Questions &amp; answers</h1>
+
+<p>If you happen to have any questions regarding keyboards or memes, you can hit me up on <a href="https://twitter.com/heikkistark">Twitter</a> or wherever you might get a hold of me :)</p>
+
+<p><strong>Q:</strong> Why do you lube the switches?</p>
+
+<p><strong>A:</strong> The lubricant (lube) reduces the amount of friction within the switch. By adding the lube, you can make the switches smoother and more silent. Lube is definately worth the extra time from my point of view. This takes a lot of time though.</p>
+
+<p><strong>Q:</strong> What is a stabilizer and what do the mods mean?</p>
+
+<p><strong>A:</strong> Stabilizers are used together with the longer keys, i.e. spacebar, enter etc. The modifications are pretty well documented by <a href="https://rama.works/silencing-stabilisers">RAMA</a>. The idea is to reduce the sound. Stabilizers are the loudest part of the keyboard.</p>
+
+<figure>
+    <img src="/images/stabilizers.png"
+         alt="GMK stabilizers"/> <figcaption>
+            <p>GMK stabilizers</p>
+        </figcaption>
+</figure>
+
+
+<p><strong>Q:</strong> Are you open for commissions?</p>
+
+<p><strong>A:</strong> Yes. Hit me up on <code>&lt;generic_messaging_platform&gt;</code> and we&rsquo;ll discuss more!</p>
+
+<p><strong>Q:</strong> What about nordic characters (<code>Ä, Ö, Å</code>)?</p>
+
+<p><strong>A:</strong> There are considerably less keycap sets with <em>ääkköset</em>. I understand that some people look at the keyboard when they are typing, but you have more choices regarding keycaps if you don&rsquo;t mind having wrong alphas in the keys.</p>
+
+<h2 id="good-stores">Good stores</h2>
+
+<table>
+<thead>
+<tr>
+<th>Store</th>
+<th>URL</th>
+<th>Location</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Candykeys</td>
+<td><a href="https://candykeys.com/">https://candykeys.com/</a></td>
+<td>Germany</td>
+</tr>
+
+<tr>
+<td>MyKeyboard</td>
+<td><a href="https://mykeyboard.eu/">https://mykeyboard.eu/</a></td>
+<td>Belgium</td>
+</tr>
+
+<tr>
+<td>KBDfans</td>
+<td><a href="https://kbdfans.com/">https://kbdfans.com/</a></td>
+<td>Asia</td>
+</tr>
+
+<tr>
+<td>KPrepublic</td>
+<td><a href="https://kprepublic.com/">https://kprepublic.com/</a></td>
+<td>Asia</td>
+</tr>
+</tbody>
+</table>
+
+<p><em>Not affiliate links, not endorsed or anything. There are more shops, I know.</em></p>
+
+<h1 id="ending-words">Ending words</h1>
+
+<p>I&rsquo;d like to thank everyone who has shown interest ❤️ Mechanical keyboards have been a hobby for me for a couple of years and it really warms my heart to get positive feedback on the video that we made and the keyboards.</p>
+
+<h2 id="shoutouts">Shoutouts</h2>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/oliver-granlund-7291b2166/">Oliver Granlund</a> for the epic photos from last MechKeeb Finland meetup! ❤️</li>
+<li><a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a> / Kiehu Creative for the <strong>epic</strong> video! ❤️</li>
+<li>Everyone who has ordered a keyboard from me ❤️</li>
+<li>You for reading this ❤️</li>
+</ul>
 ]]></content>
 		</item>
 		

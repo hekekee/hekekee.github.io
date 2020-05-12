@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heikki Stark</title>
-    <link>https://heke.io/</link>
-    <description>Recent content on Heikki Stark</description>
+    <title>Keyboards on Heikki Stark</title>
+    <link>https://heke.io/tags/keyboards/</link>
+    <description>Recent content in Keyboards on Heikki Stark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 12 May 2020 20:07:19 +0300</lastBuildDate>
     
-	<atom:link href="https://heke.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heke.io/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <guid>https://heke.io/posts/keyboard-portfolio/</guid>
       <description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact: Siinä vaiheessa kun @VilleErkkila sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 #kiehucreative #mechkeebs https://t.co/bHgIcgo6nj
 &amp;mdash; Heikki Stark (@heikkistark) April 30, 2020  For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://heke.io/about/</link>
-      <pubDate>Fri, 05 Jul 2019 15:58:45 +0300</pubDate>
-      
-      <guid>https://heke.io/about/</guid>
-      <description>  It&amp;rsquo;s a me, Heikki!
-  My name is Heikki and I live in Finland. I am currently work as a information security specialist at Nixu Corporation, but during my free time I am part of a hacking team called LeftOvers. You can see me in multiple InfoSec related communities. If you happen to see me, please come say hi!
- Twitter: @heikkistark LinkedIn: heikkistark  </description>
     </item>
     
   </channel>
