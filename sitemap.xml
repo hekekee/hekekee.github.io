@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://heke.io/keyboards/</loc>
+    <lastmod>2020-10-05T17:36:14+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://heke.io/posts/keyboard-portfolio/</loc>
     <lastmod>2020-05-12T20:07:19+03:00</lastmod>
   </url>
@@ -14,19 +19,19 @@
   
   <url>
     <loc>https://heke.io/</loc>
-    <lastmod>2020-05-12T20:07:19+03:00</lastmod>
+    <lastmod>2020-10-05T17:36:14+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heke.io/tags/keyboards/</loc>
-    <lastmod>2020-05-12T20:07:19+03:00</lastmod>
+    <lastmod>2020-10-05T17:36:14+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heke.io/tags/mechkeebs/</loc>
-    <lastmod>2020-05-12T20:07:19+03:00</lastmod>
+    <lastmod>2020-10-05T17:36:14+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,7 +43,7 @@
   
   <url>
     <loc>https://heke.io/tags/</loc>
-    <lastmod>2020-05-12T20:07:19+03:00</lastmod>
+    <lastmod>2020-10-05T17:36:14+03:00</lastmod>
     <priority>0</priority>
   </url>
   
