@@ -37,7 +37,7 @@
 
 <h2 id="sidebuttons">Sidebuttons</h2>
 
-<p>By default, the joystick uses just simple buttons and the buttons that presses the switches are long. It is quite common that you feel a that you just pushed the button, but it just doesn&rsquo;t register. That is quite a bummer and ruins the immersion of an intensive flight simulator session!</p>
+<p>By default, the joystick uses just simple buttons and the buttons that presses the switches are long. It is quite common that you feel like you just pushed the button, but it just doesn&rsquo;t register. That is quite a bummer and ruins the immersion of an intensive flight simulator session!</p>
 
 <figure>
     <img src="/images/logimech/ifixit1.jpg"
@@ -75,7 +75,7 @@
 
 <h2 id="logimech">LogiMech</h2>
 
-<p>The PoC worked amazing, but as you can clearly see, the layout of the new buttons left something to hope for. Always go further and beyond, even in these crazy scientist kind of projects. That is how you learn and you are also able to make mistakes. Luckily, I didn&rsquo;t do any mistakes, since I told about this project to my friend, <a href="https://github.com/ErkHal">Ergorius</a>, who happens to run a business called <a href="https://pohjola.works">PohjolaWorks</a>. He got reaaally excited about this and sooner than I knew, I had to go and get a multimeter and start &ldquo;reversing&rdquo; the original PCB.</p>
+<p>The PoC worked amazing, but as you can clearly see, the layout of the new buttons left something to hope for. Always go further and beyond, even in these crazy scientist kind of projects. That is how you learn and you are also able to make mistakes. Luckily, I didn&rsquo;t do any mistakes, since I told about this project to my friend, <a href="https://github.com/ErkHal">ErkHal</a>, who happens to run a business called <a href="https://pohjola.works">PohjolaWorks</a>. He got reaaally excited about this and sooner than I knew, I had to go and get a multimeter and start &ldquo;reversing&rdquo; the original PCB.</p>
 
 <figure>
     <img src="/images/logimech/pcb1.jpeg"
@@ -85,7 +85,7 @@
 </figure>
 
 
-<p>With the reversed schematics, I could start making a new PCB in KiCad. This was my first time ever downloading KiCad and therefore I didn&rsquo;t get very far. I also had veeeery little time in my hands so I had to get <a href="https://github.com/ErkHal">Ergorius</a> do all the hard work. Sooner than later, <a href="https://github.com/ErkHal">Ergorius</a> sent me an amazing photo of the designed PCB.</p>
+<p>With the reversed schematics, I could start making a new PCB in KiCad. This was my first time ever downloading KiCad and therefore I didn&rsquo;t get very far. I also had veeeery little time in my hands so I had to get <a href="https://github.com/ErkHal">ErkHal</a> do all the hard work. Sooner than later, <a href="https://github.com/ErkHal">ErkHal</a> sent me an amazing photo of the designed PCB.</p>
 
 <figure>
     <img src="/images/logimech/kicad.jpg"
@@ -95,14 +95,16 @@
 </figure>
 
 
-<p>I am happy to say, that I helped out with the silkscreen and really not much with anything else. Whoops. I got the gerber files from <a href="https://github.com/ErkHal">Ergorius</a> and ordered the PCBs from PCBway. First time ever ordering a PCB! What an amazing feeling. Gerbers hold all the information of a PCB which the factory needs. If you need an assembled (components installed), you need to provide BOM and X-Y (for pick-and-place machines) files. This time I only needed to solder the connector, mechanical switches and couple of diodes. <a href="https://github.com/ErkHal">Ergorius</a> was kind enough to add a footprint, which supports through-hole and SMD-diodes. The diodes used are 1N4148 diodes, which are common in keyboard projects. This whole project has basically been a small keyboard.</p>
+<p>I am happy to say, that I helped out with the silkscreen and really not much with anything else. Whoops. EVA-01 best &ldquo;mecha&rdquo; btw. I got the gerber files from <a href="https://github.com/ErkHal">ErkHal</a> and ordered the PCBs from PCBway. First time ever ordering a PCB! What an amazing feeling. Gerbers hold all the information of a PCB which the factory needs. If you need an assembled (components installed), you need to provide BOM and X-Y (for pick-and-place machines) files. This time I only needed to solder the connector, mechanical switches and couple of diodes. <a href="https://github.com/ErkHal">ErkHal</a> was kind enough to add a footprint, which supports through-hole and SMD-soldered diodes. The diodes used are 1N4148 diodes, which are common in keyboard projects. This whole project has basically been a small keyboard.</p>
+
+<p>You can get the gerber files from <a href="https://github.com/pohjolaworks/Logimech">github.com/pohjolaworks/Logimech</a></p>
 
 <p>Fast forward a few weeks and the PCBs arrived!</p>
 
 <figure>
     <img src="/images/logimech/logimech_02.jpg"
-         alt="LogiMech PCBs on my desk! Amaxing and exciting!"/> <figcaption>
-            <p>LogiMech PCBs on my desk! Amaxing and exciting!</p>
+         alt="LogiMech PCBs on my desk! Amazing and exciting!"/> <figcaption>
+            <p>LogiMech PCBs on my desk! Amazing and exciting!</p>
         </figcaption>
 </figure>
 
@@ -143,24 +145,26 @@
 <li>There is no such thing as a standard JST-connector</li>
 <li>You should get a multimeter. Maybe two. Just in case. Beepbeep.</li>
 <li>Kailh Choc V2 switches are bad. Get either V1s or just stick with normal MX-style switches</li>
-<li>Friends, who help and are excited for your projects, are amazing 🥰</li>
+<li>Friends, who help and get excited for your projects, are amazing 🥰</li>
 <li>Take more photos during the project!</li>
 </ul>
 
 <p>This was a really simple project, just swapping switches and making loads of simple solders. But nevertheless, it was a nice and funny project to do!</p>
 
+<p>I dunno, the project might even get some updates in the future? 👀</p>
+
 <h1 id="shoutouts">Shoutouts 💕</h1>
 
 <ul>
-<li><a href="https://github.com/ErkHal">Ergorius</a>
+<li><a href="https://github.com/ErkHal">ErkHal</a>
 
 <ul>
-<li>Helped A LOT with PCB designing</li>
+<li>Helped <strong>a lot</strong> with PCB designing</li>
 </ul></li>
 <li><a href="https://twitter.com/HJuva">Heikki</a>
 
 <ul>
-<li>Forced me to buy a multimeter</li>
+<li>Forced me to buy a multimeter (thanks)</li>
 <li>Helped with reversing the original schematics</li>
 </ul></li>
 <li><a href="https://twitter.com/VilleErkkila">Ville</a>

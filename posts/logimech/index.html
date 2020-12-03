@@ -14,7 +14,7 @@
 
 <meta itemprop="datePublished" content="2020-12-03T18:28:19&#43;02:00" />
 <meta itemprop="dateModified" content="2020-12-03T18:28:19&#43;02:00" />
-<meta itemprop="wordCount" content="1192">
+<meta itemprop="wordCount" content="1218">
 
 
 
@@ -98,7 +98,7 @@
 
 <h2 id="sidebuttons">Sidebuttons<a href="#sidebuttons" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
 
-<p>By default, the joystick uses just simple buttons and the buttons that presses the switches are long. It is quite common that you feel a that you just pushed the button, but it just doesn&rsquo;t register. That is quite a bummer and ruins the immersion of an intensive flight simulator session!</p>
+<p>By default, the joystick uses just simple buttons and the buttons that presses the switches are long. It is quite common that you feel like you just pushed the button, but it just doesn&rsquo;t register. That is quite a bummer and ruins the immersion of an intensive flight simulator session!</p>
 
 <figure>
     <img src="/images/logimech/ifixit1.jpg"
@@ -136,7 +136,7 @@
 
 <h2 id="logimech">LogiMech<a href="#logimech" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
 
-<p>The PoC worked amazing, but as you can clearly see, the layout of the new buttons left something to hope for. Always go further and beyond, even in these crazy scientist kind of projects. That is how you learn and you are also able to make mistakes. Luckily, I didn&rsquo;t do any mistakes, since I told about this project to my friend, <a href="https://github.com/ErkHal">Ergorius</a>, who happens to run a business called <a href="https://pohjola.works">PohjolaWorks</a>. He got reaaally excited about this and sooner than I knew, I had to go and get a multimeter and start &ldquo;reversing&rdquo; the original PCB.</p>
+<p>The PoC worked amazing, but as you can clearly see, the layout of the new buttons left something to hope for. Always go further and beyond, even in these crazy scientist kind of projects. That is how you learn and you are also able to make mistakes. Luckily, I didn&rsquo;t do any mistakes, since I told about this project to my friend, <a href="https://github.com/ErkHal">ErkHal</a>, who happens to run a business called <a href="https://pohjola.works">PohjolaWorks</a>. He got reaaally excited about this and sooner than I knew, I had to go and get a multimeter and start &ldquo;reversing&rdquo; the original PCB.</p>
 
 <figure>
     <img src="/images/logimech/pcb1.jpeg"
@@ -146,7 +146,7 @@
 </figure>
 
 
-<p>With the reversed schematics, I could start making a new PCB in KiCad. This was my first time ever downloading KiCad and therefore I didn&rsquo;t get very far. I also had veeeery little time in my hands so I had to get <a href="https://github.com/ErkHal">Ergorius</a> do all the hard work. Sooner than later, <a href="https://github.com/ErkHal">Ergorius</a> sent me an amazing photo of the designed PCB.</p>
+<p>With the reversed schematics, I could start making a new PCB in KiCad. This was my first time ever downloading KiCad and therefore I didn&rsquo;t get very far. I also had veeeery little time in my hands so I had to get <a href="https://github.com/ErkHal">ErkHal</a> do all the hard work. Sooner than later, <a href="https://github.com/ErkHal">ErkHal</a> sent me an amazing photo of the designed PCB.</p>
 
 <figure>
     <img src="/images/logimech/kicad.jpg"
@@ -156,14 +156,16 @@
 </figure>
 
 
-<p>I am happy to say, that I helped out with the silkscreen and really not much with anything else. Whoops. I got the gerber files from <a href="https://github.com/ErkHal">Ergorius</a> and ordered the PCBs from PCBway. First time ever ordering a PCB! What an amazing feeling. Gerbers hold all the information of a PCB which the factory needs. If you need an assembled (components installed), you need to provide BOM and X-Y (for pick-and-place machines) files. This time I only needed to solder the connector, mechanical switches and couple of diodes. <a href="https://github.com/ErkHal">Ergorius</a> was kind enough to add a footprint, which supports through-hole and SMD-diodes. The diodes used are 1N4148 diodes, which are common in keyboard projects. This whole project has basically been a small keyboard.</p>
+<p>I am happy to say, that I helped out with the silkscreen and really not much with anything else. Whoops. EVA-01 best &ldquo;mecha&rdquo; btw. I got the gerber files from <a href="https://github.com/ErkHal">ErkHal</a> and ordered the PCBs from PCBway. First time ever ordering a PCB! What an amazing feeling. Gerbers hold all the information of a PCB which the factory needs. If you need an assembled (components installed), you need to provide BOM and X-Y (for pick-and-place machines) files. This time I only needed to solder the connector, mechanical switches and couple of diodes. <a href="https://github.com/ErkHal">ErkHal</a> was kind enough to add a footprint, which supports through-hole and SMD-soldered diodes. The diodes used are 1N4148 diodes, which are common in keyboard projects. This whole project has basically been a small keyboard.</p>
+
+<p>You can get the gerber files from <a href="https://github.com/pohjolaworks/Logimech">github.com/pohjolaworks/Logimech</a></p>
 
 <p>Fast forward a few weeks and the PCBs arrived!</p>
 
 <figure>
     <img src="/images/logimech/logimech_02.jpg"
-         alt="LogiMech PCBs on my desk! Amaxing and exciting!"/> <figcaption>
-            <p>LogiMech PCBs on my desk! Amaxing and exciting!</p>
+         alt="LogiMech PCBs on my desk! Amazing and exciting!"/> <figcaption>
+            <p>LogiMech PCBs on my desk! Amazing and exciting!</p>
         </figcaption>
 </figure>
 
@@ -204,24 +206,26 @@
 <li>There is no such thing as a standard JST-connector</li>
 <li>You should get a multimeter. Maybe two. Just in case. Beepbeep.</li>
 <li>Kailh Choc V2 switches are bad. Get either V1s or just stick with normal MX-style switches</li>
-<li>Friends, who help and are excited for your projects, are amazing 🥰</li>
+<li>Friends, who help and get excited for your projects, are amazing 🥰</li>
 <li>Take more photos during the project!</li>
 </ul>
 
 <p>This was a really simple project, just swapping switches and making loads of simple solders. But nevertheless, it was a nice and funny project to do!</p>
 
+<p>I dunno, the project might even get some updates in the future? 👀</p>
+
 <h1 id="shoutouts">Shoutouts 💕<a href="#shoutouts" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h1>
 
 <ul>
-<li><a href="https://github.com/ErkHal">Ergorius</a>
+<li><a href="https://github.com/ErkHal">ErkHal</a>
 
 <ul>
-<li>Helped A LOT with PCB designing</li>
+<li>Helped <strong>a lot</strong> with PCB designing</li>
 </ul></li>
 <li><a href="https://twitter.com/HJuva">Heikki</a>
 
 <ul>
-<li>Forced me to buy a multimeter</li>
+<li>Forced me to buy a multimeter (thanks)</li>
 <li>Helped with reversing the original schematics</li>
 </ul></li>
 <li><a href="https://twitter.com/VilleErkkila">Ville</a>
@@ -237,7 +241,7 @@
 				<p>
 					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://heke.io/tags/diy">diy</a></span><span class="tag"><a href="https://heke.io/tags/mechkeebs">mechkeebs</a></span>
 				</p>
-				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1192 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1218 Words</p>
 				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>12-03-2020 18:28 &#43;0200</p>
 			</footer>
 		</article>
