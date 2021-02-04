@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1612300017",
+        "cacheTag": "1612473174",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,24 +42,24 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Mine-tuottis Season 2",
-            "zoomLevels": 7,
-            "defaultZoom": 1,
-            "maxZoom": 7,
+            "zoomLevels": 6,
+            "defaultZoom": 2,
+            "maxZoom": 6,
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Mine-tuottis2021",
-            "last_rendertime": 1612299563,
+            "last_rendertime": 1612471434,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -260,
-                64,
-                -25
+                -192,
+                96,
+                112
             ],
-            "minZoom": 0,
+            "minZoom": 2,
             "spawn": [
                 -192,
                 96,
