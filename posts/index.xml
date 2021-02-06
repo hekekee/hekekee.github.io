@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Heikki Stark</title>
@@ -17,12 +16,8 @@
 			
 			<guid>https://heke.io/posts/logimech/</guid>
 			<description>Prologue Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&amp;rsquo;t.</description>
-			<content type="html"><![CDATA[
-
-<h2 id="prologue">Prologue</h2>
-
-<p>Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&rsquo;t. Only for Pros&rsquo;!</p>
-
+			<content type="html"><![CDATA[<h2 id="prologue">Prologue</h2>
+<p>Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&rsquo;t. Only for Pros'!</p>
 <figure>
     <img src="/images/logimech/logitech_extreme_3d_pro.png"
          alt="Original (left) and LogiMech mods (right)"/> <figcaption>
@@ -30,15 +25,10 @@
         </figcaption>
 </figure>
 
-
 <p>I bought mine from a friend and it was just barely used. I <em>needed</em> the joystick for the new Microsoft Flight Simulator (2020) and Star Wars: Squadrons games. The Squadrons was relatively nice singleplayer fly and pointy shooty game, but the MSF2020 was amazing. I really recommend it.</p>
-
 <p>But this is not a game review - <strong>no</strong>! This is about LogiMech, an amazing project to improve Extreme 3D Pro&rsquo;s biggest downfall - sidebuttons.</p>
-
 <h2 id="sidebuttons">Sidebuttons</h2>
-
 <p>By default, the joystick uses just simple buttons and the buttons that presses the switches are long. It is quite common that you feel like you just pushed the button, but it just doesn&rsquo;t register. That is quite a bummer and ruins the immersion of an intensive flight simulator session!</p>
-
 <figure>
     <img src="/images/logimech/ifixit1.jpg"
          alt="Picture from iFixit"/> <figcaption>
@@ -46,13 +36,9 @@
         </figcaption>
 </figure>
 
-
 <p>This combined with the loooong buttons that press the switches, it is quite bad design. The top of the buttons is slanted which makes you press the buttons on a slight angle when you should be pressing exactly straight down to activate the button. Not nice.</p>
-
 <p>Well, happy for me, I happen to have &ldquo;a few&rdquo; mechanical switches around, meant for a mechanical keyboard. I usually have a small stock of Gateron Silent Browns or similar cheap tactile switches. But since this was a &ldquo;game controller&rdquo;, I decided to go with Kailh Choc V2 Browns that I had extra from an earlier project. I also had <a href="https://ramaworks.store/products/grid-set-a">RAMA WORKS Grids</a> from earlier keyboard projects. I checked out the <a href="https://www.ifixit.com/Guide/Logitech+Extreme+3D+Pro+Base+Button+Circuit+Board+Replacement/105874">iFixit article</a> and soon realised that the base circuit board is just one-sided PCB. This should make my life really easy to do modifications!</p>
-
 <p>I did the modifications on my <a href="https://twitch.tv/hekeke">Twitch channel</a>, so I didn&rsquo;t take any photos during the stream 😢</p>
-
 <figure>
     <img src="/images/logimech/pcb.jpeg"
          alt="The PCB mounted on the joystick"/> <figcaption>
@@ -60,9 +46,7 @@
         </figcaption>
 </figure>
 
-
 <p>Here is a photo of the PCB, with the orignal switches desoldered. I used 24 AWG wire and soldered it to the places where the switches should be soldered and then the wires to the mechanical switches. The original button housings have enough space for Cherry MX type of switches. I just hotglued the switches on place.</p>
-
 <figure>
     <img src="/images/logimech/logimech_rev1.jpeg"
          alt="The very first revision of LogiMech. Very PoC and very dirty"/> <figcaption>
@@ -70,13 +54,9 @@
         </figcaption>
 </figure>
 
-
 <p>Okay this worked fine and I was able to advance in my game of Star Wars: Squadrons and it worked <em>marvelously</em>. The buttons no longer were error prone and everything was great. The project was finished. Unless&hellip;</p>
-
 <h2 id="logimech">LogiMech</h2>
-
 <p>The PoC worked amazing, but as you can clearly see, the layout of the new buttons left something to hope for. Always go further and beyond, even in these crazy scientist kind of projects. That is how you learn and you are also able to make mistakes. Luckily, I didn&rsquo;t do any mistakes, since I told about this project to my friend, <a href="https://github.com/ErkHal">ErkHal</a>, who happens to run a business called <a href="https://pohjola.works">PohjolaWorks</a>. He got reaaally excited about this and sooner than I knew, I had to go and get a multimeter and start &ldquo;reversing&rdquo; the original PCB.</p>
-
 <figure>
     <img src="/images/logimech/pcb1.jpeg"
          alt="Reversed schematics. Thanks for the help, Heikki!"/> <figcaption>
@@ -84,9 +64,7 @@
         </figcaption>
 </figure>
 
-
 <p>With the reversed schematics, I could start making a new PCB in KiCad. This was my first time ever downloading KiCad and therefore I didn&rsquo;t get very far. I also had veeeery little time in my hands so I had to get <a href="https://github.com/ErkHal">ErkHal</a> do all the hard work. Sooner than later, <a href="https://github.com/ErkHal">ErkHal</a> sent me an amazing photo of the designed PCB.</p>
-
 <figure>
     <img src="/images/logimech/kicad.jpg"
          alt="KiCad render of the LogiMech PCB"/> <figcaption>
@@ -94,13 +72,9 @@
         </figcaption>
 </figure>
 
-
 <p>I am happy to say, that I helped out with the silkscreen and really not much with anything else. Whoops. EVA-01 best &ldquo;mecha&rdquo; btw. I got the gerber files from <a href="https://github.com/ErkHal">ErkHal</a> and ordered the PCBs from PCBway. First time ever ordering a PCB! What an amazing feeling. Gerbers hold all the information of a PCB which the factory needs. If you need an assembled (components installed), you need to provide BOM and X-Y (for pick-and-place machines) files. This time I only needed to solder the connector, mechanical switches and couple of diodes. <a href="https://github.com/ErkHal">ErkHal</a> was kind enough to add a footprint, which supports through-hole and SMD-soldered diodes. The diodes used are 1N4148 diodes, which are common in keyboard projects. This whole project has basically been a small keyboard.</p>
-
 <p>You can get the gerber files from <a href="https://github.com/pohjolaworks/Logimech">github.com/pohjolaworks/Logimech</a></p>
-
 <p>Fast forward a few weeks and the PCBs arrived!</p>
-
 <figure>
     <img src="/images/logimech/logimech_02.jpg"
          alt="LogiMech PCBs on my desk! Amazing and exciting!"/> <figcaption>
@@ -108,15 +82,10 @@
         </figcaption>
 </figure>
 
-
 <h2 id="assembly-time">Assembly time!</h2>
-
 <p>The whole assembly process was, yet again, streamed on my <a href="https://twitch.tv/hekeke">Twitch channel</a>, so no extra photos :(</p>
-
 <p>Okay so, you are able to &ldquo;just&rdquo; solder the switches to the PCB and mount the PCB, but you can also get a plate, where you mount the switches first. Yet again, I had leftover acrylic plate from <a href="https://github.com/ErkHal/PRKL30">PRKL30</a> project. I just snapped the plate for 6 switch places and was quite happy with it. The idea was to mount the plate somewhere on the joystick.</p>
-
 <p>I started by desoldering the original connector from the original PCB. It was at this point I realised that the connector, as a matter of fact, was not <strong>a JST-connector</strong>. Or it was, but I also heard that there might not be thing called &ldquo;standard JST-connector&rdquo;. Damn. Anyways, I just added wires to the new PCB and soldered the end of those wires to the connector.</p>
-
 <figure>
     <img src="/images/logimech/jst.jpg"
          alt="Not-a-JST-connector soldered via wires"/> <figcaption>
@@ -124,9 +93,7 @@
         </figcaption>
 </figure>
 
-
 <p>Anyways, after this, I needed to mount the plate somehow. The plate had a couple of screwholes, where I could be able to put standoffs and then screw the standoffs to the plate and the base of the joystick. I just lacked the resources for this neat and clean mounting style, so I went ham. With hotglue.</p>
-
 <figure>
     <img src="/images/logimech/logimech_01.jpg"
          alt="If it looks stupid, but it works, it&amp;rsquo;s not stupid"/> <figcaption>
@@ -134,13 +101,9 @@
         </figcaption>
 </figure>
 
-
 <p>Now I can happily say that the project has been finished. The total cost was the prices for 6 switches and 5€ for 5 pieces of PCB from PCBway. So it was relatively cheap.</p>
-
 <h1 id="lessons-learned">Lessons learned</h1>
-
 <p>Like in all projects, it is important to remember the stuff you learned from along the way. Mistakes are only okay if you learn from them!</p>
-
 <ul>
 <li>There is no such thing as a standard JST-connector</li>
 <li>You should get a multimeter. Maybe two. Just in case. Beepbeep.</li>
@@ -148,30 +111,26 @@
 <li>Friends, who help and get excited for your projects, are amazing 🥰</li>
 <li>Take more photos during the project!</li>
 </ul>
-
 <p>This was a really simple project, just swapping switches and making loads of simple solders. But nevertheless, it was a nice and funny project to do!</p>
-
 <p>I dunno, the project might even get some updates in the future? 👀</p>
-
-<h1 id="shoutouts">Shoutouts 💕</h1>
-
+<h1 id="shoutouts-">Shoutouts 💕</h1>
 <ul>
 <li><a href="https://github.com/ErkHal">ErkHal</a>
-
 <ul>
 <li>Helped <strong>a lot</strong> with PCB designing</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="https://twitter.com/HJuva">Heikki</a>
-
 <ul>
 <li>Forced me to buy a multimeter (thanks)</li>
 <li>Helped with reversing the original schematics</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="https://twitter.com/VilleErkkila">Ville</a>
-
 <ul>
 <li>For helping with the camera stuff</li>
-</ul></li>
+</ul>
+</li>
 </ul>
 ]]></content>
 		</item>
@@ -184,23 +143,15 @@
 			<guid>https://heke.io/posts/keyboard-portfolio/</guid>
 			<description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact: Siinä vaiheessa kun @VilleErkkila sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 #kiehucreative #mechkeebs https://t.co/bHgIcgo6nj
 &amp;mdash; Heikki Stark (@heikkistark) April 30, 2020  For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video.</description>
-			<content type="html"><![CDATA[
-
-<p>Recently I&rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact:
+			<content type="html"><![CDATA[<p>Recently I&rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact:
 <blockquote class="twitter-tweet"><p lang="fi" dir="ltr">Siinä vaiheessa kun <a href="https://twitter.com/VilleErkkila?ref_src=twsrc%5Etfw">@VilleErkkila</a> sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 <a href="https://twitter.com/hashtag/kiehucreative?src=hash&amp;ref_src=twsrc%5Etfw">#kiehucreative</a> <a href="https://twitter.com/hashtag/mechkeebs?src=hash&amp;ref_src=twsrc%5Etfw">#mechkeebs</a> <a href="https://t.co/bHgIcgo6nj">https://t.co/bHgIcgo6nj</a></p>&mdash; Heikki Stark (@heikkistark) <a href="https://twitter.com/heikkistark/status/1255893851308462080?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-
 <p>For this video, I want to give a short shoutout to <a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a> and Kiehu Creative for coming up with the idea and filming the amazing video. This whole video was shot on my old apartment, in a quite smallish place and didn&rsquo;t even take that long to shoot! Altogether it was a fun evening with keebs and cameras and friends.</p>
-
 <p>The reason I am doing this &ldquo;portfolio&rdquo; is that I think this might be the best way to show people what kind of custom keyboards I&rsquo;ve been building/assembling/consulting/whatever.</p>
-
 <h2 id="my-keyboards">My keyboards</h2>
-
-<h3 id="kbd67-rev-2-0">KBD67 rev 2.0</h3>
-
+<h3 id="kbd67-rev-20">KBD67 rev 2.0</h3>
 <p>On the contrary to the common belief, I don&rsquo;t collect keyboards. I only have two keyboards - one for home and one for work.</p>
-
 <figure>
     <img src="/images/portfolio/hekeke2.jpg"
          alt="My daily driver, KBD67 rev2.0. © Olli Granlund"/> <figcaption>
@@ -208,11 +159,8 @@
         </figcaption>
 </figure>
 
-
 <p>This one is my &ldquo;daily driver&rdquo; and my current &ldquo;endgame&rdquo; keyboard. The only thing that I am missing is a wireless PCB. It seems that the technology to do wireless custom keyboards is not just there. I have made a few <a href="https://twitter.com/heikkistark/status/1220427738760327170">USB-cables</a> myself, so that the cable looks pretty neat, but I&rsquo;d love to have a full wireless setup.</p>
-
 <p>Here are the exact specs of my #1 keyboard:</p>
-
 <table>
 <thead>
 <tr>
@@ -220,46 +168,36 @@
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>KBD67 rev 2.0 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Zilents v2 62g (lubed with Superlube)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>KBDfans low-profile aluminium case, black</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Brass Plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>GMK Wavez</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in (clipped, band-aid and heatshrink modded)</td>
 </tr>
 </tbody>
 </table>
-
 <p>With this keyboard I tried to aim for as silent as possible keyboard, which I think I succeeded in pretty well, except for the spacebar. That thing is still loud, because of the long stabilizers that the spacebar uses. That rattle sound is pretty hard to get rid of, even with modified stabilizers.</p>
-
-<h3 id="dz60-rev-3-0">DZ60 rev 3.0</h3>
-
+<h3 id="dz60-rev-30">DZ60 rev 3.0</h3>
 <p>This one is my keyboard, that I (sometimes) have with me at work.</p>
-
 <figure>
     <img src="/images/portfolio/hekeke1.jpg"
          alt="DZ60 rev 3.0. © Olli Granlund"/> <figcaption>
@@ -267,7 +205,6 @@
         </figcaption>
 </figure>
 
-
 <table>
 <thead>
 <tr>
@@ -275,56 +212,41 @@
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>DZ60 rev 3.0 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Zilents v2 62g (lubed with Superlube)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>KBDfans low-profile aluminium case, red</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Alumium plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>NPKC Blank rainbow keycaps</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in (clipped)</td>
 </tr>
 </tbody>
 </table>
-
 <p>For this being a keyboard I keep at work, it had to be as small and quiet as possible. I don&rsquo;t want to be <em>the guy with the loud clickety clackety clacker keyboard</em>. What is special about this, is that the normal 60% layout keyboards don&rsquo;t have dedicated arrow keys. By using a smaller left shift and 1U sized right shift, you can squeeze in the arrow keys. This is one of the best things when getting a custom keyboard, you get exactly what you want. I&rsquo;ve had colleagues say that the sound of this keyboard is pretty pleasant and not disturbing. The keycaps are rainbow, because they were the cheapest around that time :)</p>
-
 <p>This was also my very first custom keyboard that I&rsquo;ve built.</p>
-
 <h2 id="commissions">Commissions</h2>
-
 <p>Most of the keyboards that I&rsquo;ve built has been commissions and I&rsquo;ve streamed a few of them on my <a href="https://twitch.tv/hekeke">Twitch channel</a>. There a lot of people have asked questions and I&rsquo;ve answered them on livestream.</p>
-
 <p>Check out the <a href="https://heke.io/keyboards/">Keyboards</a> page for more information on these :)</p>
-
 <h3 id="dz60">DZ60</h3>
-
 <p>The most common type of keyboard that I&rsquo;ve built is a DZ60 keyboard. It is a pretty cheap, but it still has pretty good features.</p>
-
 <p>I won&rsquo;t go too much in to the details of these, since they are almost clones of each other.</p>
-
 <figure>
     <img src="/images/portfolio/dz601.jpg"
          alt="DZ60, Zilents v2 65g, acrylic TOFU case and amazing artisan keycaps"/> <figcaption>
@@ -332,11 +254,8 @@
         </figcaption>
 </figure>
 
-
 <p>This one has a pretty cool theme going on. It has a few artisan keycaps and the spacebar is making me jealous as heck. The USB-cable is made by me, it has a aviator GX14 connector and MDPC sleeves. The DZ60 has underglow LEDs and it shines nicely through the slightly frosted acrylic TOFU case.</p>
-
 <p>Thanks <a href="https://www.twitch.tv/lepijopi">LepiJopi</a> for this project!</p>
-
 <figure>
     <img src="/images/portfolio/dz602.jpg"
          alt="DZ60, Zilents v2 67g, aluminium TOFU case"/> <figcaption>
@@ -344,13 +263,9 @@
         </figcaption>
 </figure>
 
-
 <p>What&rsquo;s cool in this project, was the case. TOFU case weighs <em>a lot</em>. The 60% version is a chunk of aluminium.</p>
-
-<h3 id="kbd67-rev-2-0-1">KBD67 rev 2.0</h3>
-
+<h3 id="kbd67-rev-20-1">KBD67 rev 2.0</h3>
 <p>This one was made for <a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a>, they guy who made the most of the earlier video.</p>
-
 <figure>
     <img src="/images/portfolio/kbd67.jpg"
          alt="KBD67 rev2.0"/> <figcaption>
@@ -358,7 +273,6 @@
         </figcaption>
 </figure>
 
-
 <table>
 <thead>
 <tr>
@@ -366,46 +280,36 @@
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>KBD67 rev 2.0 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Zilents v2 62g (lubed with Superlube)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>Aluminium TOFU case, purple</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Aluminium Plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>NPKC sunset gradient keycaps</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in (clipped, band-aid  modded)</td>
 </tr>
 </tbody>
 </table>
-
 <p>The coolest thing about this project was once again the weight. I remember weighting this keyboard and the scale showed something around 1,5 - 2,0 kg. That is a lot of weight for a keyboard of this size. The case also has a brass weight on the bottom.</p>
-
 <h3 id="wonderland-lubrigante">Wonderland Lubrigante</h3>
-
 <p>This has been the most interesting project for me.</p>
-
 <figure>
     <img src="/images/portfolio/wonderland.jpg"
          alt="Wonderland Lubrigante. © Olli Granlund"/> <figcaption>
@@ -413,7 +317,6 @@
         </figcaption>
 </figure>
 
-
 <table>
 <thead>
 <tr>
@@ -421,48 +324,37 @@
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>Wonderland</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Gateron Silent Ink Black (lubed with Krytox)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>Lubrigante acrylic case</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Integrated</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>GMK 9009</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in</td>
 </tr>
 </tbody>
 </table>
-
 <p>To get something special like this, you need to be kinda active in the keyboard community. These things are ordered with a group-buy format. If you are too late to the party, you may need to wait a long time for the keyboard parts to go for a new round. If you get to the group-buy, you still have to wait for the parts to be finish manufacturing.</p>
-
 <p>This is a split ergonomic keyboard. The idea is that when you rest your hands on top of they keyboard, they sit on a more natural position.</p>
-
 <p>Thanks <a href="https://www.instagram.com/pajamaen_pedro/">ElPedró</a> for this epic project!</p>
-
 <h3 id="kbd75v2">KBD75v2</h3>
-
 <figure>
     <img src="/images/portfolio/kbd75.jpg"
          alt="KBD75v2"/> <figcaption>
@@ -470,7 +362,6 @@
         </figcaption>
 </figure>
 
-
 <table>
 <thead>
 <tr>
@@ -478,56 +369,41 @@
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>KBD75v2 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Gateron Silent Ink Black (lubed with RO-59tmKT)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>Aluminium KBD75v2 case</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Brass plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>Tai-Hao Miami PBT keycaps</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>Cherry Screw-in (clipped, band-aid modded)</td>
 </tr>
 </tbody>
 </table>
-
 <p>Yet again, one heavy keyboard. KBD75v2 PCB also has underglow LED lights, so the red stripe you can see in the picture has a smooth glow, which can be customized to your liking. The 75% layout includes a full F-row (<code>F1</code> to <code>F12</code> buttons). The KBD75v2 also supports a numpad, but then you have to make bigger compromises.</p>
-
 <p>This one is for my good friend <a href="https://twitter.com/JoakimTauren">Joakim</a>!</p>
-
-<h1 id="questions-answers">Questions &amp; answers</h1>
-
+<h1 id="questions--answers">Questions &amp; answers</h1>
 <p>If you happen to have any questions regarding keyboards or memes, you can hit me up on <a href="https://twitter.com/heikkistark">Twitter</a> or wherever you might get a hold of me :)</p>
-
 <p><strong>Q:</strong> Why do you lube the switches?</p>
-
 <p><strong>A:</strong> The lubricant (lube) reduces the amount of friction within the switch. By adding the lube, you can make the switches smoother and more silent. Lube is definitely worth the extra time from my point of view. This takes a lot of time though.</p>
-
 <p><strong>Q:</strong> What is a stabilizer and what do the mods mean?</p>
-
 <p><strong>A:</strong> Stabilizers are used together with the longer keys, i.e. spacebar, enter etc. The modifications are pretty well documented by <a href="https://rama.works/silencing-stabilisers">RAMA</a>. The idea is to reduce the sound. Stabilizers are the loudest part of the keyboard.</p>
-
 <figure>
     <img src="/images/portfolio/stabilizers.png"
          alt="GMK stabilizers"/> <figcaption>
@@ -535,17 +411,11 @@
         </figcaption>
 </figure>
 
-
 <p><strong>Q:</strong> Are you open for commissions?</p>
-
 <p><strong>A:</strong> Yes. Hit me up on <code>&lt;generic_messaging_platform&gt;</code> and we&rsquo;ll discuss more!</p>
-
 <p><strong>Q:</strong> What about nordic characters (<code>Ä, Ö, Å</code>)?</p>
-
 <p><strong>A:</strong> There are considerably less keycap sets with <em>ääkköset</em>. I understand that some people look at the keyboard when they are typing, but you have more choices regarding keycaps if you don&rsquo;t mind having wrong alphas in the keys.</p>
-
 <h2 id="good-stores">Good stores</h2>
-
 <table>
 <thead>
 <tr>
@@ -554,26 +424,22 @@
 <th>Location</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Candykeys</td>
 <td><a href="https://candykeys.com/">https://candykeys.com/</a></td>
 <td>Germany</td>
 </tr>
-
 <tr>
 <td>MyKeyboard</td>
 <td><a href="https://mykeyboard.eu/">https://mykeyboard.eu/</a></td>
 <td>Belgium</td>
 </tr>
-
 <tr>
 <td>KBDfans</td>
 <td><a href="https://kbdfans.com/">https://kbdfans.com/</a></td>
 <td>Asia</td>
 </tr>
-
 <tr>
 <td>KPrepublic</td>
 <td><a href="https://kprepublic.com/">https://kprepublic.com/</a></td>
@@ -581,15 +447,10 @@
 </tr>
 </tbody>
 </table>
-
 <p><em>Not affiliate links, not endorsed or anything. There are more shops, I know.</em></p>
-
 <h1 id="ending-words">Ending words</h1>
-
 <p>I&rsquo;d like to thank everyone who has shown interest ❤️ Mechanical keyboards have been a hobby for me for a couple of years and it really warms my heart to get positive feedback on the video that we made and the keyboards.</p>
-
 <h2 id="shoutouts">Shoutouts</h2>
-
 <ul>
 <li><a href="https://www.linkedin.com/in/oliver-granlund-7291b2166/">Oliver Granlund</a> for the epic photos from last MechKeeb Finland meetup! ❤️</li>
 <li><a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a> / Kiehu Creative for the <strong>epic</strong> video! ❤️</li>
