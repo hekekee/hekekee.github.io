@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1612569604",
+        "cacheTag": "1612723573",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Mine-tuottis2021",
-            "last_rendertime": 1612569143,
+            "last_rendertime": 1612722363,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
