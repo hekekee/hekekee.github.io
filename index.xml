@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heikki Stark</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 18:28:19 +0200</lastBuildDate><atom:link href="https://heke.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 18:28:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://heke.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>LogiMech</title>
       <link>https://heke.io/posts/logimech/</link>
@@ -23,10 +27,9 @@
       <pubDate>Mon, 05 Oct 2020 17:36:14 +0300</pubDate>
       
       <guid>https://heke.io/keyboards/</guid>
-      <description>Browse my previous commission keyboards and find more information on how you can order a custom keyboard!
-                               KBD67 rev 2.0
+      <description>Browse my previous commission keyboards and find more information on how you can order a custom keyboard!                                KBD67 rev 2.0
       DZ60
-      KBD67 rev 2.0
+      Lily58 Pro
       KBD67 rev 2.</description>
     </item>
     
@@ -47,7 +50,7 @@
       
       <guid>https://heke.io/about/</guid>
       <description>It&amp;rsquo;s a me, Heikki!
-  My name is Heikki and I live in Finland. I am currently work as a information security specialist at Nixu Corporation, but during my free time I am part of a hacking team called LeftOvers. You can see me in multiple InfoSec related communities. If you happen to see me, please come say hi!
+  My name is Heikki and I live in Finland. I am currently working as a information security specialist at F-Secure, but during my free time I am part of a hacking team called LeftOvers. You can see me in multiple InfoSec related communities. If you happen to see me, please come say hi!
 In October 2020, I decided to start doing mechanical keyboard stuff (assemblying and fixing etc.</description>
     </item>
     
