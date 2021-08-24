@@ -125,7 +125,7 @@ To come up with something, I decided to start making a <strong>rave stick with a
         </figcaption>
 </figure>
 
-The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm around and 65mm long cylinder battery cell. The form factor is great for this project. The thing with LiOn batteries is that if they are under- or over-volted, they might start producing toxic gasses and pressure. This is something that we&rsquo;d love to avoid at any cost. Our ESP32&rsquo;s charger does not include a protection circuit integrated. Luckily you can buy batteries, which have them. Easiest for me was to buy one from <a href="https://www.verkkokauppa.com/fi/product/55903/qbjkd/Ansmann-18650-akkuparisto-3500mAh">Verkkokauppa.com</a>. It is a little bit more costly, but it gets the job done and most certainly won&rsquo;t explode. I hope.</p>
+The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm around and 65mm long cylinder battery cell. The form factor is great for this project. The thing with Li-On batteries is that if they are under- or over-volted, they might start producing toxic gasses and pressure. This is something that we&rsquo;d love to avoid at any cost. Our ESP32&rsquo;s charger does not include a protection circuit integrated. Luckily you can buy batteries, which have one. It also provides protection against overcurrent and overtemperature. Easiest for me was to buy one from <a href="https://www.verkkokauppa.com/fi/product/55903/qbjkd/Ansmann-18650-akkuparisto-3500mAh">Verkkokauppa.com</a>. It is a little bit more costly, but it gets the job done and most certainly won&rsquo;t explode. I hope.</p>
 
 <h4 id="leds">LEDs</h4>
 
