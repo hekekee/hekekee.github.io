@@ -42,7 +42,7 @@ To come up with something, I decided to start making a <strong>rave stick with a
 <li>not explode</li>
 </ul>
 
-<p>These things in mind, we drafted a little sketch.</p>
+<p>These things in mind, we drafted a little sketch with <a href="https://twitter.com/HJuva">Heikki Juva</a>.</p>
 
 <figure>
     <img src="/images/ravestick/drafts_ravestick.png"
@@ -180,6 +180,15 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
         </figcaption>
 </figure>
 
+
+<p>Some of the comments from <a href="https://twitter.com/HJuva">@Heikki Juva</a></p>
+
+<ul>
+<li>I could have used <code>VBAT</code> pinout instead of <code>3V3</code>. This might have caused my ESP32 to be unstable with higher amount of LEDs</li>
+<li>Even a better option would have been to take the <code>+</code> straight from battery and take it to Step-Up converter&rsquo;s <code>VIN+</code> directly</li>
+</ul>
+
+<p>Keep these in mind, if you are going to make your own rave stick 😁</p>
 
 <h3 id="software">Software</h3>
 

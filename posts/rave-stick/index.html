@@ -14,7 +14,7 @@
 
 <meta itemprop="datePublished" content="2021-08-22T20:10:58&#43;03:00" />
 <meta itemprop="dateModified" content="2021-08-22T20:10:58&#43;03:00" />
-<meta itemprop="wordCount" content="1322">
+<meta itemprop="wordCount" content="1392">
 
 
 
@@ -103,7 +103,7 @@ To come up with something, I decided to start making a <strong>rave stick with a
 <li>not explode</li>
 </ul>
 
-<p>These things in mind, we drafted a little sketch.</p>
+<p>These things in mind, we drafted a little sketch with <a href="https://twitter.com/HJuva">Heikki Juva</a>.</p>
 
 <figure>
     <img src="/images/ravestick/drafts_ravestick.png"
@@ -242,6 +242,15 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 </figure>
 
 
+<p>Some of the comments from <a href="https://twitter.com/HJuva">@Heikki Juva</a></p>
+
+<ul>
+<li>I could have used <code>VBAT</code> pinout instead of <code>3V3</code>. This might have caused my ESP32 to be unstable with higher amount of LEDs</li>
+<li>Even a better option would have been to take the <code>+</code> straight from battery and take it to Step-Up converter&rsquo;s <code>VIN+</code> directly</li>
+</ul>
+
+<p>Keep these in mind, if you are going to make your own rave stick 😁</p>
+
 <h3 id="software">Software<a href="#software" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 
 <p>I decided to go with a neat little software called <a href="https://github.com/Aircoookie/WLED">WLED</a>. WLED hosts a webserver from which you are able to add your configurations and everything over WiFi. There is also a quite handy app for iOS and Android. Since we are wanting a highly mobile setup for our raves, this sounds amazing.</p>
@@ -302,7 +311,7 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 				<p>
 					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://heke.io/tags/diy">diy</a></span><span class="tag"><a href="https://heke.io/tags/fun">fun</a></span><span class="tag"><a href="https://heke.io/tags/esp32">esp32</a></span>
 				</p>
-				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1322 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1392 Words</p>
 				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>08-22-2021 20:10 &#43;0300</p>
 			</footer>
 		</article>
