@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Heikki Stark</title>
@@ -7,8 +6,116 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 22 Aug 2021 20:10:58 +0300</lastBuildDate>
+		<lastBuildDate>Sun, 28 Nov 2021 19:36:59 +0200</lastBuildDate>
 		<atom:link href="https://heke.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>50th keyboard giveaway</title>
+			<link>https://heke.io/posts/giveaway/</link>
+			<pubDate>Sun, 28 Nov 2021 19:36:59 +0200</pubDate>
+			
+			<guid>https://heke.io/posts/giveaway/</guid>
+			<description>I built my first custom mechanical keyboard 19th of August, 2019. never would I have thought that I&amp;rsquo;d ever build 50 of them. It&amp;rsquo;s been crazy and feels unbelievable. The 50th keyboard is going to be special one. I am giving it away in my Twitch channel!
+The 50th keyboard I decided to go with a SixtyFive keyboard by Mode Designs. The SixtyFive keyboard (also known as Mode65) is a highly configurable keyboard with a 65% layout.</description>
+			<content type="html"><![CDATA[<p>I built my first custom mechanical keyboard 19th of August, 2019. never would I have thought that I&rsquo;d ever build 50 of them. It&rsquo;s been crazy and feels unbelievable. The 50th keyboard is going to be special one. I am giving it away in my <a href="https://twitch.tv/hekeke">Twitch channel</a>!</p>
+<h2 id="the-50th-keyboard">The 50th keyboard</h2>
+<p>I decided to go with a <a href="https://shop.modedesigns.com/blogs/updates/updates-introducing-the-sixtyfive">SixtyFive</a> keyboard by Mode Designs.
+The SixtyFive keyboard (also known as Mode65) is a highly configurable keyboard with a 65% layout.</p>
+<figure><img src="/images/mode65.jpg"
+         alt="Pre-rendered photo of SixtyFive"/><figcaption>
+            <p>Pre-rendered photo of SixtyFive</p>
+        </figcaption>
+</figure>
+
+<p>The giveaway keyboard has the following configuration:</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Top</td>
+<td>Blue-Grey</td>
+</tr>
+<tr>
+<td>Bottom</td>
+<td>Blue-Grey</td>
+</tr>
+<tr>
+<td>Backpiece</td>
+<td>Brass</td>
+</tr>
+<tr>
+<td>Plate</td>
+<td>Black Aluminum / ISO</td>
+</tr>
+<tr>
+<td>Plate Foam</td>
+<td>No</td>
+</tr>
+<tr>
+<td>PCB</td>
+<td>ISO Hotswap</td>
+</tr>
+<tr>
+<td>Silicone Base</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Plate Caps</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>Feet</td>
+<td>Black</td>
+</tr>
+</tbody>
+</table>
+<p>You should also be able to see the exact configuration from this link: <a href="https://shop.modedesigns.com/products/sixtyfive?code=1C2C3I4H5A6C8A">Mode65</a></p>
+<h3 id="keycaps">Keycaps</h3>
+<p>Keycaps are douleshot PBT keycaps from Tai-Hao. They have nordic layout, so you can enjoy your <code>Ä, Ö, Å</code> responsibly!</p>
+<figure><img src="/images/taihao_exotic.png"
+         alt="A random 65% with Tai-Hao Exotic Nordic keycaps"/><figcaption>
+            <p>A random 65% with Tai-Hao Exotic Nordic keycaps</p>
+        </figcaption>
+</figure>
+
+<p>Since they are doubleshot keycaps, they should be wear-resistant as well. These keycaps are affordable, but still of good quality!</p>
+<h3 id="switches--stabilizers">Switches &amp; stabilizers</h3>
+<p>This was a hard choice to make. There are two options for switches:</p>
+<ul>
+<li>Tacile: <a href="https://deskthority.net/wiki/Durock_T1">Durock T1 67g</a></li>
+<li>Linear: <a href="https://www.theremingoat.com/blog/lavender-switch-review">Lavender 65g</a></li>
+</ul>
+<p>Everyone has their own preference for the switches, but having a huge amount of available choices would have been absurdly hard and difficult to manage. Both of these choices are really good switches. Some consider these the best of their own categories. The SixtyFive is a hotswap keyboard, so the winner will be able to swap the switches to their own preference, if these are not up to the winner&rsquo;s standards 😎</p>
+<p>Switches will be lubed by me, of course.</p>
+<p>Stabilizers are Durock v2 stabilizers. Color depends on the switches; either smoke grey or clear/transparent ones.</p>
+<h1 id="rules">Rules</h1>
+<p>The following rules apply for this giveway:</p>
+<ul>
+<li>Must live in Finland</li>
+<li>Must be following me on Twitch</li>
+<li>Has to use 10 000 channel points to participate</li>
+<li>Has to fill the form that I will give in Twitch/Discord DM</li>
+<li>Only 1 participation per person
+<ul>
+<li>Filling more than 1 form won&rsquo;t have any effect, I will be checking them manually</li>
+</ul>
+</li>
+<li>If you try to bamboozle me, your entry will be denied</li>
+</ul>
+<h3 id="question-why-10-000-channel-points-requirement">Question: Why 10 000 channel points requirement?</h3>
+<p>This is to make sure that someone, who actually has followed me a long time really wins this. I probably wouldn&rsquo;t be at this point without the constant support and amazing discussion I&rsquo;ve had during my keyboard build streams on Twitch. This keyboard&rsquo;s value is pretty high (500€+), so I really, <strong>really</strong> want someone who I know to win this. #based</p>
+<p>Also, for the most active people on my stream chat, I will be giving the spot on the giveaway without 10k channel point requirement. Thanks for supporting me ♥</p>
+<h1 id="how-to-participate">How to participate?</h1>
+<p>Go to <a href="https://twitch.tv/hekeke">https://twitch.tv/hekeke</a> and spend the 10k channel points reward thingy.</p>
+<p>The giveaway will be held before christmas, no idea on when exactly, but stay tuned 👀</p>
+<p>Also huge shoutout to <a href="https://www.twitch.tv/lindaa149">Linda</a> for sponsoring big part of this keyboard! Otherwise you&rsquo;d had to settle for a lesser keeb !</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Rave stick from addressable LEDs</title>
@@ -17,23 +124,15 @@
 			
 			<guid>https://heke.io/posts/rave-stick/</guid>
 			<description>A good friend of mine was having her 30th birthday party. The party had a disco/rave room, where everyone went and had a good time dancing to the music. While the world itself is what it currently is, I decided to bunker down for 2 weeks to make sure that I would not spread any diseases to my good friends. This made it impossible to go and get epic rave gear.</description>
-			<content type="html"><![CDATA[
-
-<figure>
-    <img src="/images/ravestick/ravestick1.jpg"/> 
+			<content type="html"><![CDATA[<figure><img src="/images/ravestick/ravestick1.jpg"/>
 </figure>
-
 
 <p>A good friend of mine was having her 30th birthday party. The party had a disco/rave room, where everyone went and had a good time dancing to the music.
 While the world itself is what it currently is, I decided to bunker down for 2 weeks to make sure that I would not spread any diseases to my good friends. This made it impossible to go and get epic rave gear.
 To come up with something, I decided to start making a <strong>rave stick with addressable LEDs</strong>! To my confusion, I could not find any similar project released as an open source project. The electronics within this project can easily be translated to cosplay projects or whatever else 😊 The files are available on <a href="https://www.thingiverse.com/thing:4939787">Thingiverse</a>.</p>
-
 <h2 id="the-project">The project</h2>
-
 <p>Yet again, I managed to open my mouth for my friend a few weeks before the deadline - the birthday party. He gave me good ideas on where to start and how to design the model.</p>
-
 <p>The end product should:</p>
-
 <ul>
 <li>have blinking lights</li>
 <li>have a chargeable battery</li>
@@ -41,21 +140,15 @@ To come up with something, I decided to start making a <strong>rave stick with a
 <li>be simple</li>
 <li>not explode</li>
 </ul>
-
 <p>These things in mind, we drafted a little sketch with <a href="https://twitter.com/HJuva">Heikki Juva</a>.</p>
-
-<figure>
-    <img src="/images/ravestick/drafts_ravestick.png"
-         alt="Whiteboard drafting and sketching"/> <figcaption>
+<figure><img src="/images/ravestick/drafts_ravestick.png"
+         alt="Whiteboard drafting and sketching"/><figcaption>
             <p>Whiteboard drafting and sketching</p>
         </figcaption>
 </figure>
 
-
 <h3 id="bill-of-materials">Bill of materials</h3>
-
 <p>With all these things in mind, the following parts were chosen for the project</p>
-
 <table>
 <thead>
 <tr>
@@ -63,177 +156,128 @@ To come up with something, I decided to start making a <strong>rave stick with a
 <th>Name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Controller</td>
 <td><a href="https://www.sparkfun.com/products/13907">SparkFun ESP32 Thing</a></td>
 </tr>
-
 <tr>
 <td>LEDs</td>
 <td>WS2812 LED strip</td>
 </tr>
-
 <tr>
 <td>Battery</td>
 <td><a href="https://www.verkkokauppa.com/fi/product/55903/qbjkd/Ansmann-18650-akkuparisto-3500mAh">Ansmann 18650 3500mAh battery</a></td>
 </tr>
-
 <tr>
 <td>Battery holder</td>
 <td>Generic 18650 battery holder</td>
 </tr>
-
 <tr>
 <td>On/off switch</td>
 <td>Generic rocker toggle switch</td>
 </tr>
-
 <tr>
 <td>Step-up converter</td>
 <td>Step-Up Adjustable DC-DC Switching Boost Converter</td>
 </tr>
-
 <tr>
 <td>Cables</td>
 <td>28 AWG wiring</td>
 </tr>
 </tbody>
 </table>
-
 <h4 id="controller">Controller</h4>
-
-<figure>
-    <img src="/images/ravestick/sparkfun_esp32thing.png"
-         alt="SparkFun ESP32 Thing"/> <figcaption>
+<figure><img src="/images/ravestick/sparkfun_esp32thing.png"
+         alt="SparkFun ESP32 Thing"/><figcaption>
             <p><a href="https://www.sparkfun.com/products/13907">SparkFun ESP32 Thing</a></p>
         </figcaption>
 </figure>
 
-
 <p><a href="https://www.sparkfun.com/products/13907">SparkFun ESP32 Thing</a> was chosen because it has several amazingly good features for this project. ESP32 Thing is a great devboard featuring an integrated LiPo charger. Also my friend happened to have an extra few 😅 Only downside is that it does not have a 5V power pinout for powering the LED strip. We can get around this by putting a step-up converter in between to crank up the 3,3V output to 5V.</p>
-
 <p>SparkFun is a quality vendor and trustable. By going with this the product was one step closer of one of our requirements; <em>it should not explode</em>. The thing that might explode of course is&hellip;</p>
-
 <h4 id="battery">Battery</h4>
-
-<p><figure>
-    <img src="/images/ravestick/battery.png"
-         alt="Ansmann 18650 3500mAh battery"/> <figcaption>
+<p><figure><img src="/images/ravestick/battery.png"
+         alt="Ansmann 18650 3500mAh battery"/><figcaption>
             <p><a href="https://www.verkkokauppa.com/fi/product/55903/qbjkd/Ansmann-18650-akkuparisto-3500mAh">Ansmann 18650 3500mAh battery</a></p>
         </figcaption>
 </figure>
 
 The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm around and 65mm long cylinder battery cell. The form factor is great for this project. The thing with Li-On batteries is that if they are under- or over-volted, they might start producing toxic gasses and pressure. This is something that we&rsquo;d love to avoid at any cost. Our ESP32&rsquo;s charger does not include a protection circuit integrated. Luckily you can buy batteries, which have one. It also provides protection against overcurrent and overtemperature. Easiest for me was to buy one from <a href="https://www.verkkokauppa.com/fi/product/55903/qbjkd/Ansmann-18650-akkuparisto-3500mAh">Verkkokauppa.com</a>. It is a little bit more costly, but it gets the job done and most certainly won&rsquo;t explode. I hope.</p>
-
 <h4 id="leds">LEDs</h4>
-
 <p>You can get really cheap NeoPixel clones from Aliexpress. I have a few meters of WS2812 with different amount of LEDs per meter. For this project, I went with 60 LEDs per meter and IP30 rating. Putting too many LEDs on at the same time requires more electricity! I tested with a denser LED strip as well, but with <strong>44 LEDs</strong> the microcontroller was very unstable. I decided to downgrade to 20 LEDs (10 for each side). 😢 But with less LEDs, we can make the few LEDs we have a little bit more brighter as well! Yay!</p>
-
 <h3 id="3d-modeling">3D modeling</h3>
-
-<figure>
-    <img src="/images/ravestick/fusion.png"
-         alt="Autodesk Fusion360 - CAD software"/> <figcaption>
+<figure><img src="/images/ravestick/fusion.png"
+         alt="Autodesk Fusion360 - CAD software"/><figcaption>
             <p>Autodesk Fusion360 - CAD software</p>
         </figcaption>
 </figure>
 
-
 <p>I fired up the Fusion360 and started doing <em>the stuff</em>. I like to do measuring before going in to the CAD itself and writing everything down (ref. the earlier sketches) and re-measuring everything while doing the models.</p>
 
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/DHsvj6p0Y1A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/DHsvj6p0Y1A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="First test fit - Threads worked great in the first try!"></iframe>
 </div>
 
-
 <p>All the parts went through small changes, mostly making things wider or longer. Owning your own 3D printer makes the prototyping such a joy.</p>
-
-<figure>
-    <img src="/images/ravestick/testfit_1.png"
-         alt="Handle testfit for the electronics. It did not fit."/> <figcaption>
+<figure><img src="/images/ravestick/testfit_1.png"
+         alt="Handle testfit for the electronics. It did not fit."/><figcaption>
             <p>Handle testfit for the electronics. It did not fit.</p>
         </figcaption>
 </figure>
 
-
 <p>The diffuser part required the most prototyping I&rsquo;ve ever done. Goal was to diffuse the LEDs light so that you can&rsquo;t see the parts which are not directly illuminated by the LEDs. The diffuser will be sanded downto hide the layer changes from 3D printing. Therefore the diffuser was printed from <a href="https://shop.prusa3d.com/en/prusament/1264-prusament-petg-signal-white-1kg.html">PETG plastic (white)</a> since it&rsquo;s better to sand than PLA. I started with 320 grit and ended up with 1200. The final sanded version had a cool frosty effect on it, which is hard to capture on the camera!</p>
-
-<figure>
-    <img src="/images/ravestick/finaltest.gif"
-         alt="Final test for the electronics. IT WORKS"/> <figcaption>
+<figure><img src="/images/ravestick/finaltest.gif"
+         alt="Final test for the electronics. IT WORKS"/><figcaption>
             <p>Final test for the electronics. IT WORKS</p>
         </figcaption>
 </figure>
 
-
 <h3 id="electronics">Electronics</h3>
-
 <p>ESP32 Thing pretty much is the brains of this project. The pinout is simple and nicely written in the silkscreen. I early mentioned that the ESP32 Thing gives out only 3,3 volts, when our LEDs requres 5V. That&rsquo;s why we need to put a step up converter in between to power the LEDs. The battery is connected to the toggle switch as well. I just wanted to make a physical on/off switch for the battery. You could skip this and just add a deep sleep to your code or something. I like physical buttons 😊</p>
-
-<figure>
-    <img src="/images/ravestick/wiring_diagram.png"
-         alt="Wiring diagram. DON&amp;rsquo;T JUDGE ME"/> <figcaption>
+<figure><img src="/images/ravestick/wiring_diagram.png"
+         alt="Wiring diagram. DON&amp;rsquo;T JUDGE ME"/><figcaption>
             <p>Wiring diagram. DON&rsquo;T JUDGE ME</p>
         </figcaption>
 </figure>
 
-
 <p>Some of the comments from <a href="https://twitter.com/HJuva">@Heikki Juva</a></p>
-
 <ul>
 <li>I could have used <code>VBAT</code> pinout instead of <code>3V3</code>. This might have caused my ESP32 to be unstable with higher amount of LEDs</li>
 <li>Even a better option would have been to take the <code>+</code> straight from battery and take it to Step-Up converter&rsquo;s <code>VIN+</code> directly</li>
 </ul>
-
 <p>Keep these in mind, if you are going to make your own rave stick 😁</p>
-
 <h3 id="software">Software</h3>
-
 <p>I decided to go with a neat little software called <a href="https://github.com/Aircoookie/WLED">WLED</a>. WLED hosts a webserver from which you are able to add your configurations and everything over WiFi. There is also a quite handy app for iOS and Android. Since we are wanting a highly mobile setup for our raves, this sounds amazing.</p>
-
-<figure><a href="https://github.com/Aircoookie/WLED">
-    <img src="/images/ravestick/wled.png"
-         alt="WLED"/> </a>
+<figure><a href="https://github.com/Aircoookie/WLED"><img src="/images/ravestick/wled.png"
+         alt="WLED"/></a>
 </figure>
 
-
 <p>The installation is extremely simple (unless you want to compile your own WLED binaries). Just go to the <a href="https://install.wled.me/">install.wled.me</a> with your ESP-based controller insterted and you can flash it over there. It was a neat little experience and I&rsquo;ve never seen any other site do the same. It was magical. Of course there are concerns about this impelmentation. WLED&rsquo;s repository has loads of cool tutorials linked from people who know about their stuff. At least more than me!</p>
-
 <p>By default, the WLED also hosts a WiFi access point, which you can connect via your mobile phone. The initial setup should be done here. There are a few default settings that I wanted to change. First thing was to change LED PIN from <code>0</code> to <code>13</code>. I decided to go with 13 to make the cabling look neat 😊 Your mileage may vary and using <code>0</code> is a valid choice. The UI seems like its amazing, and for the most of the parts it is, but some stuff just isn&rsquo;t that intuitive. For example, changing the default preset to something else than the default warm white.</p>
-
 <h2 id="post-mortem">Post Mortem</h2>
-
 <p>The sticks themselves were amazing. We had lots of fun times with them.</p>
-
-<p>The bigges downside, of coruse, was the model design. Designing two parts to be joined together via threads was a bad idea or the implementation wasn&rsquo;t perfect. The LEDs&rsquo; wires became twisted and I had to swap from LED connectors to just soldering flexible silicone wires straight to the LEDs. That wasn&rsquo;t such a bad thing, but structually the thread was also the weakest part of the handle. When people are having fun and waving their epic rave sticks, it&rsquo;s possible that they might drop the sticks. And they did. And the threaded part broke down after the first drop. Luckily the design was amazingly simple so they could easily be fixed by using tape.</p>
-
+<p>The bigges downside, of coruse, was the model design. Designing two parts to be joined together via threads was a bad idea or the implementation wasn&rsquo;t perfect. The LEDs' wires became twisted and I had to swap from LED connectors to just soldering flexible silicone wires straight to the LEDs. That wasn&rsquo;t such a bad thing, but structually the thread was also the weakest part of the handle. When people are having fun and waving their epic rave sticks, it&rsquo;s possible that they might drop the sticks. And they did. And the threaded part broke down after the first drop. Luckily the design was amazingly simple so they could easily be fixed by using tape.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/1o2AbvTnj0A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/1o2AbvTnj0A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
 <p>The design itself is not perfect in any other way, but I think the diffuser pattern was really good. The handle should be redesigned with the following things in mind:</p>
-
 <ul>
 <li>Make the diffuser &amp; handle attach mechanism stronger
-
 <ul>
 <li>Screws? Heat inserts? Who knows</li>
-</ul></li>
+</ul>
+</li>
 <li>USB-port for charging the battery
-
 <ul>
 <li>USB-C female connectors were on their way &gt;:3</li>
-</ul></li>
+</ul>
+</li>
 <li>Add a button for changing the lightning effect or something</li>
 </ul>
-
 <p>But our requirements were filled!</p>
-
 <ul>
 <li>It had blinking lights</li>
 <li>It had a chargeable battery</li>
@@ -241,7 +285,6 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <li>It was simple</li>
 <li>It did not explode</li>
 </ul>
-
 <p>Hope you enjoyed the read. I know I did ♥</p>
 ]]></content>
 		</item>
@@ -253,130 +296,85 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 			
 			<guid>https://heke.io/posts/logimech/</guid>
 			<description>Prologue Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&amp;rsquo;t.</description>
-			<content type="html"><![CDATA[
-
-<h2 id="prologue">Prologue</h2>
-
-<p>Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&rsquo;t. Only for Pros&rsquo;!</p>
-
-<figure>
-    <img src="/images/logimech/logitech_extreme_3d_pro.png"
-         alt="Original (left) and LogiMech mods (right)"/> <figcaption>
+			<content type="html"><![CDATA[<h2 id="prologue">Prologue</h2>
+<p>Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&rsquo;t. Only for Pros'!</p>
+<figure><img src="/images/logimech/logitech_extreme_3d_pro.png"
+         alt="Original (left) and LogiMech mods (right)"/><figcaption>
             <p>Original (left) and LogiMech mods (right)</p>
         </figcaption>
 </figure>
 
-
 <p>I bought mine from a friend and it was just barely used. I <em>needed</em> the joystick for the new Microsoft Flight Simulator (2020) and Star Wars: Squadrons games. The Squadrons was relatively nice singleplayer fly and pointy shooty game, but the MSF2020 was amazing. I really recommend it.</p>
-
 <p>But this is not a game review - <strong>no</strong>! This is about LogiMech, an amazing project to improve Extreme 3D Pro&rsquo;s biggest downfall - sidebuttons.</p>
-
 <h2 id="sidebuttons">Sidebuttons</h2>
-
 <p>By default, the joystick uses just simple buttons and the buttons that presses the switches are long. It is quite common that you feel like you just pushed the button, but it just doesn&rsquo;t register. That is quite a bummer and ruins the immersion of an intensive flight simulator session!</p>
-
-<figure>
-    <img src="/images/logimech/ifixit1.jpg"
-         alt="Picture from iFixit"/> <figcaption>
+<figure><img src="/images/logimech/ifixit1.jpg"
+         alt="Picture from iFixit"/><figcaption>
             <p>Picture from <a href="https://www.ifixit.com/Guide/Logitech+Extreme+3D+Pro+Base+Button+Circuit+Board+Replacement/105874">iFixit</a></p>
         </figcaption>
 </figure>
 
-
 <p>This combined with the loooong buttons that press the switches, it is quite bad design. The top of the buttons is slanted which makes you press the buttons on a slight angle when you should be pressing exactly straight down to activate the button. Not nice.</p>
-
 <p>Well, happy for me, I happen to have &ldquo;a few&rdquo; mechanical switches around, meant for a mechanical keyboard. I usually have a small stock of Gateron Silent Browns or similar cheap tactile switches. But since this was a &ldquo;game controller&rdquo;, I decided to go with Kailh Choc V2 Browns that I had extra from an earlier project. I also had <a href="https://ramaworks.store/products/grid-set-a">RAMA WORKS Grids</a> from earlier keyboard projects. I checked out the <a href="https://www.ifixit.com/Guide/Logitech+Extreme+3D+Pro+Base+Button+Circuit+Board+Replacement/105874">iFixit article</a> and soon realised that the base circuit board is just one-sided PCB. This should make my life really easy to do modifications!</p>
-
 <p>I did the modifications on my <a href="https://twitch.tv/hekeke">Twitch channel</a>, so I didn&rsquo;t take any photos during the stream 😢</p>
-
-<figure>
-    <img src="/images/logimech/pcb.jpeg"
-         alt="The PCB mounted on the joystick"/> <figcaption>
+<figure><img src="/images/logimech/pcb.jpeg"
+         alt="The PCB mounted on the joystick"/><figcaption>
             <p>The PCB mounted on the joystick</p>
         </figcaption>
 </figure>
 
-
 <p>Here is a photo of the PCB, with the orignal switches desoldered. I used 24 AWG wire and soldered it to the places where the switches should be soldered and then the wires to the mechanical switches. The original button housings have enough space for Cherry MX type of switches. I just hotglued the switches on place.</p>
-
-<figure>
-    <img src="/images/logimech/logimech_rev1.jpeg"
-         alt="The very first revision of LogiMech. Very PoC and very dirty"/> <figcaption>
+<figure><img src="/images/logimech/logimech_rev1.jpeg"
+         alt="The very first revision of LogiMech. Very PoC and very dirty"/><figcaption>
             <p>The very first revision of LogiMech. Very PoC and very dirty</p>
         </figcaption>
 </figure>
 
-
 <p>Okay this worked fine and I was able to advance in my game of Star Wars: Squadrons and it worked <em>marvelously</em>. The buttons no longer were error prone and everything was great. The project was finished. Unless&hellip;</p>
-
 <h2 id="logimech">LogiMech</h2>
-
 <p>The PoC worked amazing, but as you can clearly see, the layout of the new buttons left something to hope for. Always go further and beyond, even in these crazy scientist kind of projects. That is how you learn and you are also able to make mistakes. Luckily, I didn&rsquo;t do any mistakes, since I told about this project to my friend, <a href="https://github.com/ErkHal">ErkHal</a>, who happens to run a business called <a href="https://pohjola.works">PohjolaWorks</a>. He got reaaally excited about this and sooner than I knew, I had to go and get a multimeter and start &ldquo;reversing&rdquo; the original PCB.</p>
-
-<figure>
-    <img src="/images/logimech/pcb1.jpeg"
-         alt="Reversed schematics. Thanks for the help, Heikki!"/> <figcaption>
+<figure><img src="/images/logimech/pcb1.jpeg"
+         alt="Reversed schematics. Thanks for the help, Heikki!"/><figcaption>
             <p>Reversed schematics. Thanks for the help, <a href="https://twitter.com/HJuva">Heikki</a>!</p>
         </figcaption>
 </figure>
 
-
 <p>With the reversed schematics, I could start making a new PCB in KiCad. This was my first time ever downloading KiCad and therefore I didn&rsquo;t get very far. I also had veeeery little time in my hands so I had to get <a href="https://github.com/ErkHal">ErkHal</a> do all the hard work. Sooner than later, <a href="https://github.com/ErkHal">ErkHal</a> sent me an amazing photo of the designed PCB.</p>
-
-<figure>
-    <img src="/images/logimech/kicad.jpg"
-         alt="KiCad render of the LogiMech PCB"/> <figcaption>
+<figure><img src="/images/logimech/kicad.jpg"
+         alt="KiCad render of the LogiMech PCB"/><figcaption>
             <p>KiCad render of the LogiMech PCB</p>
         </figcaption>
 </figure>
 
-
 <p>I am happy to say, that I helped out with the silkscreen and really not much with anything else. Whoops. EVA-01 best &ldquo;mecha&rdquo; btw. I got the gerber files from <a href="https://github.com/ErkHal">ErkHal</a> and ordered the PCBs from PCBway. First time ever ordering a PCB! What an amazing feeling. Gerbers hold all the information of a PCB which the factory needs. If you need an assembled (components installed), you need to provide BOM and X-Y (for pick-and-place machines) files. This time I only needed to solder the connector, mechanical switches and couple of diodes. <a href="https://github.com/ErkHal">ErkHal</a> was kind enough to add a footprint, which supports through-hole and SMD-soldered diodes. The diodes used are 1N4148 diodes, which are common in keyboard projects. This whole project has basically been a small keyboard.</p>
-
 <p>You can get the gerber files from <a href="https://github.com/pohjolaworks/Logimech">github.com/pohjolaworks/Logimech</a></p>
-
 <p>Fast forward a few weeks and the PCBs arrived!</p>
-
-<figure>
-    <img src="/images/logimech/logimech_02.jpg"
-         alt="LogiMech PCBs on my desk! Amazing and exciting!"/> <figcaption>
+<figure><img src="/images/logimech/logimech_02.jpg"
+         alt="LogiMech PCBs on my desk! Amazing and exciting!"/><figcaption>
             <p>LogiMech PCBs on my desk! Amazing and exciting!</p>
         </figcaption>
 </figure>
 
-
 <h2 id="assembly-time">Assembly time!</h2>
-
 <p>The whole assembly process was, yet again, streamed on my <a href="https://twitch.tv/hekeke">Twitch channel</a>, so no extra photos :(</p>
-
 <p>Okay so, you are able to &ldquo;just&rdquo; solder the switches to the PCB and mount the PCB, but you can also get a plate, where you mount the switches first. Yet again, I had leftover acrylic plate from <a href="https://github.com/ErkHal/PRKL30">PRKL30</a> project. I just snapped the plate for 6 switch places and was quite happy with it. The idea was to mount the plate somewhere on the joystick.</p>
-
 <p>I started by desoldering the original connector from the original PCB. It was at this point I realised that the connector, as a matter of fact, was not <strong>a JST-connector</strong>. Or it was, but I also heard that there might not be thing called &ldquo;standard JST-connector&rdquo;. Damn. Anyways, I just added wires to the new PCB and soldered the end of those wires to the connector.</p>
-
-<figure>
-    <img src="/images/logimech/jst.jpg"
-         alt="Not-a-JST-connector soldered via wires"/> <figcaption>
+<figure><img src="/images/logimech/jst.jpg"
+         alt="Not-a-JST-connector soldered via wires"/><figcaption>
             <p>Not-a-JST-connector soldered via wires</p>
         </figcaption>
 </figure>
 
-
 <p>Anyways, after this, I needed to mount the plate somehow. The plate had a couple of screwholes, where I could be able to put standoffs and then screw the standoffs to the plate and the base of the joystick. I just lacked the resources for this neat and clean mounting style, so I went ham. With hotglue.</p>
-
-<figure>
-    <img src="/images/logimech/logimech_01.jpg"
-         alt="If it looks stupid, but it works, it&amp;rsquo;s not stupid"/> <figcaption>
+<figure><img src="/images/logimech/logimech_01.jpg"
+         alt="If it looks stupid, but it works, it&amp;rsquo;s not stupid"/><figcaption>
             <p>If it looks stupid, but it works, it&rsquo;s not stupid</p>
         </figcaption>
 </figure>
 
-
 <p>Now I can happily say that the project has been finished. The total cost was the prices for 6 switches and 5€ for 5 pieces of PCB from PCBway. So it was relatively cheap.</p>
-
 <h1 id="lessons-learned">Lessons learned</h1>
-
 <p>Like in all projects, it is important to remember the stuff you learned from along the way. Mistakes are only okay if you learn from them!</p>
-
 <ul>
 <li>There is no such thing as a standard JST-connector</li>
 <li>You should get a multimeter. Maybe two. Just in case. Beepbeep.</li>
@@ -384,30 +382,26 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <li>Friends, who help and get excited for your projects, are amazing 🥰</li>
 <li>Take more photos during the project!</li>
 </ul>
-
 <p>This was a really simple project, just swapping switches and making loads of simple solders. But nevertheless, it was a nice and funny project to do!</p>
-
 <p>I dunno, the project might even get some updates in the future? 👀</p>
-
-<h1 id="shoutouts">Shoutouts 💕</h1>
-
+<h1 id="shoutouts-">Shoutouts 💕</h1>
 <ul>
 <li><a href="https://github.com/ErkHal">ErkHal</a>
-
 <ul>
 <li>Helped <strong>a lot</strong> with PCB designing</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="https://twitter.com/HJuva">Heikki</a>
-
 <ul>
 <li>Forced me to buy a multimeter (thanks)</li>
 <li>Helped with reversing the original schematics</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="https://twitter.com/VilleErkkila">Ville</a>
-
 <ul>
 <li>For helping with the camera stuff</li>
-</ul></li>
+</ul>
+</li>
 </ul>
 ]]></content>
 		</item>
@@ -420,35 +414,23 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 			<guid>https://heke.io/posts/keyboard-portfolio/</guid>
 			<description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact: Siinä vaiheessa kun @VilleErkkila sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 #kiehucreative #mechkeebs https://t.co/bHgIcgo6nj
 &amp;mdash; Heikki Stark (@heikkistark) April 30, 2020  For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video.</description>
-			<content type="html"><![CDATA[
-
-<p>Recently I&rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact:
+			<content type="html"><![CDATA[<p>Recently I&rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact:
 <blockquote class="twitter-tweet"><p lang="fi" dir="ltr">Siinä vaiheessa kun <a href="https://twitter.com/VilleErkkila?ref_src=twsrc%5Etfw">@VilleErkkila</a> sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 <a href="https://twitter.com/hashtag/kiehucreative?src=hash&amp;ref_src=twsrc%5Etfw">#kiehucreative</a> <a href="https://twitter.com/hashtag/mechkeebs?src=hash&amp;ref_src=twsrc%5Etfw">#mechkeebs</a> <a href="https://t.co/bHgIcgo6nj">https://t.co/bHgIcgo6nj</a></p>&mdash; Heikki Stark (@heikkistark) <a href="https://twitter.com/heikkistark/status/1255893851308462080?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-
 <p>For this video, I want to give a short shoutout to <a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a> and Kiehu Creative for coming up with the idea and filming the amazing video. This whole video was shot on my old apartment, in a quite smallish place and didn&rsquo;t even take that long to shoot! Altogether it was a fun evening with keebs and cameras and friends.</p>
-
 <p>The reason I am doing this &ldquo;portfolio&rdquo; is that I think this might be the best way to show people what kind of custom keyboards I&rsquo;ve been building/assembling/consulting/whatever.</p>
-
 <h2 id="my-keyboards">My keyboards</h2>
-
-<h3 id="kbd67-rev-2-0">KBD67 rev 2.0</h3>
-
+<h3 id="kbd67-rev-20">KBD67 rev 2.0</h3>
 <p>On the contrary to the common belief, I don&rsquo;t collect keyboards. I only have two keyboards - one for home and one for work.</p>
-
-<figure>
-    <img src="/images/portfolio/hekeke2.jpg"
-         alt="My daily driver, KBD67 rev2.0. © Olli Granlund"/> <figcaption>
+<figure><img src="/images/portfolio/hekeke2.jpg"
+         alt="My daily driver, KBD67 rev2.0. © Olli Granlund"/><figcaption>
             <p>My daily driver, KBD67 rev2.0. © Olli Granlund</p>
         </figcaption>
 </figure>
 
-
 <p>This one is my &ldquo;daily driver&rdquo; and my current &ldquo;endgame&rdquo; keyboard. The only thing that I am missing is a wireless PCB. It seems that the technology to do wireless custom keyboards is not just there. I have made a few <a href="https://twitter.com/heikkistark/status/1220427738760327170">USB-cables</a> myself, so that the cable looks pretty neat, but I&rsquo;d love to have a full wireless setup.</p>
-
 <p>Here are the exact specs of my #1 keyboard:</p>
-
 <table>
 <thead>
 <tr>
@@ -456,53 +438,41 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>KBD67 rev 2.0 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Zilents v2 62g (lubed with Superlube)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>KBDfans low-profile aluminium case, black</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Brass Plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>GMK Wavez</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in (clipped, band-aid and heatshrink modded)</td>
 </tr>
 </tbody>
 </table>
-
 <p>With this keyboard I tried to aim for as silent as possible keyboard, which I think I succeeded in pretty well, except for the spacebar. That thing is still loud, because of the long stabilizers that the spacebar uses. That rattle sound is pretty hard to get rid of, even with modified stabilizers.</p>
-
-<h3 id="dz60-rev-3-0">DZ60 rev 3.0</h3>
-
+<h3 id="dz60-rev-30">DZ60 rev 3.0</h3>
 <p>This one is my keyboard, that I (sometimes) have with me at work.</p>
-
-<figure>
-    <img src="/images/portfolio/hekeke1.jpg"
-         alt="DZ60 rev 3.0. © Olli Granlund"/> <figcaption>
+<figure><img src="/images/portfolio/hekeke1.jpg"
+         alt="DZ60 rev 3.0. © Olli Granlund"/><figcaption>
             <p>DZ60 rev 3.0. © Olli Granlund</p>
         </figcaption>
 </figure>
-
 
 <table>
 <thead>
@@ -511,89 +481,63 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>DZ60 rev 3.0 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Zilents v2 62g (lubed with Superlube)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>KBDfans low-profile aluminium case, red</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Alumium plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>NPKC Blank rainbow keycaps</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in (clipped)</td>
 </tr>
 </tbody>
 </table>
-
 <p>For this being a keyboard I keep at work, it had to be as small and quiet as possible. I don&rsquo;t want to be <em>the guy with the loud clickety clackety clacker keyboard</em>. What is special about this, is that the normal 60% layout keyboards don&rsquo;t have dedicated arrow keys. By using a smaller left shift and 1U sized right shift, you can squeeze in the arrow keys. This is one of the best things when getting a custom keyboard, you get exactly what you want. I&rsquo;ve had colleagues say that the sound of this keyboard is pretty pleasant and not disturbing. The keycaps are rainbow, because they were the cheapest around that time :)</p>
-
 <p>This was also my very first custom keyboard that I&rsquo;ve built.</p>
-
 <h2 id="commissions">Commissions</h2>
-
 <p>Most of the keyboards that I&rsquo;ve built has been commissions and I&rsquo;ve streamed a few of them on my <a href="https://twitch.tv/hekeke">Twitch channel</a>. There a lot of people have asked questions and I&rsquo;ve answered them on livestream.</p>
-
 <p>Check out the <a href="https://heke.io/keyboards/">Keyboards</a> page for more information on these :)</p>
-
 <h3 id="dz60">DZ60</h3>
-
 <p>The most common type of keyboard that I&rsquo;ve built is a DZ60 keyboard. It is a pretty cheap, but it still has pretty good features.</p>
-
 <p>I won&rsquo;t go too much in to the details of these, since they are almost clones of each other.</p>
-
-<figure>
-    <img src="/images/portfolio/dz601.jpg"
-         alt="DZ60, Zilents v2 65g, acrylic TOFU case and amazing artisan keycaps"/> <figcaption>
+<figure><img src="/images/portfolio/dz601.jpg"
+         alt="DZ60, Zilents v2 65g, acrylic TOFU case and amazing artisan keycaps"/><figcaption>
             <p>DZ60, Zilents v2 65g, acrylic TOFU case and amazing artisan keycaps</p>
         </figcaption>
 </figure>
 
-
 <p>This one has a pretty cool theme going on. It has a few artisan keycaps and the spacebar is making me jealous as heck. The USB-cable is made by me, it has a aviator GX14 connector and MDPC sleeves. The DZ60 has underglow LEDs and it shines nicely through the slightly frosted acrylic TOFU case.</p>
-
 <p>Thanks <a href="https://www.twitch.tv/lepijopi">LepiJopi</a> for this project!</p>
-
-<figure>
-    <img src="/images/portfolio/dz602.jpg"
-         alt="DZ60, Zilents v2 67g, aluminium TOFU case"/> <figcaption>
+<figure><img src="/images/portfolio/dz602.jpg"
+         alt="DZ60, Zilents v2 67g, aluminium TOFU case"/><figcaption>
             <p>DZ60, Zilents v2 67g, aluminium TOFU case</p>
         </figcaption>
 </figure>
 
-
 <p>What&rsquo;s cool in this project, was the case. TOFU case weighs <em>a lot</em>. The 60% version is a chunk of aluminium.</p>
-
-<h3 id="kbd67-rev-2-0-1">KBD67 rev 2.0</h3>
-
+<h3 id="kbd67-rev-20-1">KBD67 rev 2.0</h3>
 <p>This one was made for <a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a>, they guy who made the most of the earlier video.</p>
-
-<figure>
-    <img src="/images/portfolio/kbd67.jpg"
-         alt="KBD67 rev2.0"/> <figcaption>
+<figure><img src="/images/portfolio/kbd67.jpg"
+         alt="KBD67 rev2.0"/><figcaption>
             <p>KBD67 rev2.0</p>
         </figcaption>
 </figure>
-
 
 <table>
 <thead>
@@ -602,53 +546,41 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>KBD67 rev 2.0 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Zilents v2 62g (lubed with Superlube)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>Aluminium TOFU case, purple</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Aluminium Plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>NPKC sunset gradient keycaps</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in (clipped, band-aid  modded)</td>
 </tr>
 </tbody>
 </table>
-
 <p>The coolest thing about this project was once again the weight. I remember weighting this keyboard and the scale showed something around 1,5 - 2,0 kg. That is a lot of weight for a keyboard of this size. The case also has a brass weight on the bottom.</p>
-
 <h3 id="wonderland-lubrigante">Wonderland Lubrigante</h3>
-
 <p>This has been the most interesting project for me.</p>
-
-<figure>
-    <img src="/images/portfolio/wonderland.jpg"
-         alt="Wonderland Lubrigante. © Olli Granlund"/> <figcaption>
+<figure><img src="/images/portfolio/wonderland.jpg"
+         alt="Wonderland Lubrigante. © Olli Granlund"/><figcaption>
             <p>Wonderland Lubrigante. © Olli Granlund</p>
         </figcaption>
 </figure>
-
 
 <table>
 <thead>
@@ -657,55 +589,42 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>Wonderland</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Gateron Silent Ink Black (lubed with Krytox)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>Lubrigante acrylic case</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Integrated</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>GMK 9009</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>GMK Screw-in</td>
 </tr>
 </tbody>
 </table>
-
 <p>To get something special like this, you need to be kinda active in the keyboard community. These things are ordered with a group-buy format. If you are too late to the party, you may need to wait a long time for the keyboard parts to go for a new round. If you get to the group-buy, you still have to wait for the parts to be finish manufacturing.</p>
-
 <p>This is a split ergonomic keyboard. The idea is that when you rest your hands on top of they keyboard, they sit on a more natural position.</p>
-
 <p>Thanks <a href="https://www.instagram.com/pajamaen_pedro/">ElPedró</a> for this epic project!</p>
-
 <h3 id="kbd75v2">KBD75v2</h3>
-
-<figure>
-    <img src="/images/portfolio/kbd75.jpg"
-         alt="KBD75v2"/> <figcaption>
+<figure><img src="/images/portfolio/kbd75.jpg"
+         alt="KBD75v2"/><figcaption>
             <p>KBD75v2</p>
         </figcaption>
 </figure>
-
 
 <table>
 <thead>
@@ -714,74 +633,52 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <th>Part name</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>PCB</td>
 <td>KBD75v2 USB-C</td>
 </tr>
-
 <tr>
 <td>Switches</td>
 <td>Gateron Silent Ink Black (lubed with RO-59tmKT)</td>
 </tr>
-
 <tr>
 <td>Case</td>
 <td>Aluminium KBD75v2 case</td>
 </tr>
-
 <tr>
 <td>Plate</td>
 <td>Brass plate</td>
 </tr>
-
 <tr>
 <td>Keycaps</td>
 <td>Tai-Hao Miami PBT keycaps</td>
 </tr>
-
 <tr>
 <td>Stabilizers</td>
 <td>Cherry Screw-in (clipped, band-aid modded)</td>
 </tr>
 </tbody>
 </table>
-
 <p>Yet again, one heavy keyboard. KBD75v2 PCB also has underglow LED lights, so the red stripe you can see in the picture has a smooth glow, which can be customized to your liking. The 75% layout includes a full F-row (<code>F1</code> to <code>F12</code> buttons). The KBD75v2 also supports a numpad, but then you have to make bigger compromises.</p>
-
 <p>This one is for my good friend <a href="https://twitter.com/JoakimTauren">Joakim</a>!</p>
-
-<h1 id="questions-answers">Questions &amp; answers</h1>
-
+<h1 id="questions--answers">Questions &amp; answers</h1>
 <p>If you happen to have any questions regarding keyboards or memes, you can hit me up on <a href="https://twitter.com/heikkistark">Twitter</a> or wherever you might get a hold of me :)</p>
-
 <p><strong>Q:</strong> Why do you lube the switches?</p>
-
 <p><strong>A:</strong> The lubricant (lube) reduces the amount of friction within the switch. By adding the lube, you can make the switches smoother and more silent. Lube is definitely worth the extra time from my point of view. This takes a lot of time though.</p>
-
 <p><strong>Q:</strong> What is a stabilizer and what do the mods mean?</p>
-
 <p><strong>A:</strong> Stabilizers are used together with the longer keys, i.e. spacebar, enter etc. The modifications are pretty well documented by <a href="https://rama.works/silencing-stabilisers">RAMA</a>. The idea is to reduce the sound. Stabilizers are the loudest part of the keyboard.</p>
-
-<figure>
-    <img src="/images/portfolio/stabilizers.png"
-         alt="GMK stabilizers"/> <figcaption>
+<figure><img src="/images/portfolio/stabilizers.png"
+         alt="GMK stabilizers"/><figcaption>
             <p>GMK stabilizers</p>
         </figcaption>
 </figure>
 
-
 <p><strong>Q:</strong> Are you open for commissions?</p>
-
 <p><strong>A:</strong> Yes. Hit me up on <code>&lt;generic_messaging_platform&gt;</code> and we&rsquo;ll discuss more!</p>
-
 <p><strong>Q:</strong> What about nordic characters (<code>Ä, Ö, Å</code>)?</p>
-
 <p><strong>A:</strong> There are considerably less keycap sets with <em>ääkköset</em>. I understand that some people look at the keyboard when they are typing, but you have more choices regarding keycaps if you don&rsquo;t mind having wrong alphas in the keys.</p>
-
 <h2 id="good-stores">Good stores</h2>
-
 <table>
 <thead>
 <tr>
@@ -790,26 +687,22 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 <th>Location</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Candykeys</td>
 <td><a href="https://candykeys.com/">https://candykeys.com/</a></td>
 <td>Germany</td>
 </tr>
-
 <tr>
 <td>MyKeyboard</td>
 <td><a href="https://mykeyboard.eu/">https://mykeyboard.eu/</a></td>
 <td>Belgium</td>
 </tr>
-
 <tr>
 <td>KBDfans</td>
 <td><a href="https://kbdfans.com/">https://kbdfans.com/</a></td>
 <td>Asia</td>
 </tr>
-
 <tr>
 <td>KPrepublic</td>
 <td><a href="https://kprepublic.com/">https://kprepublic.com/</a></td>
@@ -817,15 +710,10 @@ The battery. 18650 battery <em>usually</em> means a Li-On battery which is 18mm 
 </tr>
 </tbody>
 </table>
-
 <p><em>Not affiliate links, not endorsed or anything. There are more shops, I know.</em></p>
-
 <h1 id="ending-words">Ending words</h1>
-
 <p>I&rsquo;d like to thank everyone who has shown interest ❤️ Mechanical keyboards have been a hobby for me for a couple of years and it really warms my heart to get positive feedback on the video that we made and the keyboards.</p>
-
 <h2 id="shoutouts">Shoutouts</h2>
-
 <ul>
 <li><a href="https://www.linkedin.com/in/oliver-granlund-7291b2166/">Oliver Granlund</a> for the epic photos from last MechKeeb Finland meetup! ❤️</li>
 <li><a href="https://twitter.com/VilleErkkila">Ville Erkkilä</a> / Kiehu Creative for the <strong>epic</strong> video! ❤️</li>

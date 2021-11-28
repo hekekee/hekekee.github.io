@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Esp32 on Heikki Stark</title>
+    <title>esp32 on Heikki Stark</title>
     <link>https://heke.io/tags/esp32/</link>
-    <description>Recent content in Esp32 on Heikki Stark</description>
+    <description>Recent content in esp32 on Heikki Stark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 22 Aug 2021 20:10:58 +0300</lastBuildDate>
-    
-	<atom:link href="https://heke.io/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 22 Aug 2021 20:10:58 +0300</lastBuildDate><atom:link href="https://heke.io/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rave stick from addressable LEDs</title>
       <link>https://heke.io/posts/rave-stick/</link>

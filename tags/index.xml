@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Heikki Stark</title>
@@ -7,13 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 22 Aug 2021 20:10:58 +0300</lastBuildDate>
-    
-	<atom:link href="https://heke.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 28 Nov 2021 19:36:59 +0200</lastBuildDate><atom:link href="https://heke.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mechkeebs</title>
+      <link>https://heke.io/tags/mechkeebs/</link>
+      <pubDate>Sun, 28 Nov 2021 19:36:59 +0200</pubDate>
+      
+      <guid>https://heke.io/tags/mechkeebs/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Diy</title>
+      <title>diy</title>
       <link>https://heke.io/tags/diy/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
       
@@ -22,7 +27,7 @@
     </item>
     
     <item>
-      <title>Esp32</title>
+      <title>esp32</title>
       <link>https://heke.io/tags/esp32/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
       
@@ -31,7 +36,7 @@
     </item>
     
     <item>
-      <title>Fun</title>
+      <title>fun</title>
       <link>https://heke.io/tags/fun/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
       
@@ -40,20 +45,11 @@
     </item>
     
     <item>
-      <title>Keyboards</title>
+      <title>keyboards</title>
       <link>https://heke.io/tags/keyboards/</link>
       <pubDate>Mon, 05 Oct 2020 17:36:14 +0300</pubDate>
       
       <guid>https://heke.io/tags/keyboards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mechkeebs</title>
-      <link>https://heke.io/tags/mechkeebs/</link>
-      <pubDate>Thu, 03 Dec 2020 18:28:19 +0200</pubDate>
-      
-      <guid>https://heke.io/tags/mechkeebs/</guid>
       <description></description>
     </item>
     
