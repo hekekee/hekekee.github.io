@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "Mine-tuottis2021"
+        "Mineystikset - overworld"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1612994318",
+        "cacheTag": "1645451486",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,29 +41,29 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Mine-tuottis Season 2",
+            "name": "Normal Render of EPIC SEASON 3 OF YST\u00c4V\u00c4T MINECRAFT WOLRDLD",
             "zoomLevels": 6,
-            "defaultZoom": 2,
+            "defaultZoom": 1,
             "maxZoom": 6,
-            "path": "normalrender",
+            "path": "Mineystikset",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "Mine-tuottis2021",
-            "last_rendertime": 1612991954,
+            "world": "Mineystikset - overworld",
+            "last_rendertime": 1645395682,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -192,
-                96,
-                112
+                0,
+                129,
+                0
             ],
-            "minZoom": 2,
+            "minZoom": 0,
             "spawn": [
-                -192,
-                96,
-                112
+                0,
+                129,
+                0
             ],
             "north_direction": 0
         }
