@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "Mineystikset - overworld"
+        "My world"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1645451486",
+        "cacheTag": "1667253059",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,29 +41,30 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Normal Render of EPIC SEASON 3 OF YST\u00c4V\u00c4T MINECRAFT WOLRDLD",
+            "name": "Bilepaku",
             "zoomLevels": 6,
             "defaultZoom": 1,
             "maxZoom": 6,
-            "path": "Mineystikset",
+            "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "Mineystikset - overworld",
-            "last_rendertime": 1645395682,
-            "imgextension": "png",
+            "world": "My world",
+            "last_rendertime": 1667249229,
+            "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                0,
-                129,
-                0
+                48,
+                119,
+                32
             ],
+            "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                0,
-                129,
-                0
+                48,
+                119,
+                32
             ],
             "north_direction": 0
         }
