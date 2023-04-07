@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>mechkeebs on Heikki Stark</title>
     <link>https://heke.io/tags/mechkeebs/</link>
     <description>Recent content in mechkeebs on Heikki Stark</description>
+    <image>
+      <title>Heikki Stark</title>
+      <url>https://heke.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://heke.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 28 Nov 2021 19:36:59 +0200</lastBuildDate><atom:link href="https://heke.io/tags/mechkeebs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>50th keyboard - Giveaway</title>
@@ -43,8 +46,8 @@ The 50th keyboard I decided to go with a SixtyFive keyboard by Mode Designs. The
       <pubDate>Tue, 12 May 2020 20:07:19 +0300</pubDate>
       
       <guid>https://heke.io/posts/keyboard-portfolio/</guid>
-      <description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video. This one to be exact: Siinä vaiheessa kun @VilleErkkila sanoo, että sillä on hyvä idea, ei voi vaan kieltäytyä. Hymyilen ääneen tätä meidän pientä projektia 😂 #kiehucreative #mechkeebs https://t.co/bHgIcgo6nj
-&amp;mdash; Heikki Stark (@heikkistark) April 30, 2020 For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video.</description>
+      <description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video.
+For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video. This whole video was shot on my old apartment, in a quite smallish place and didn&amp;rsquo;t even take that long to shoot! Altogether it was a fun evening with keebs and cameras and friends.</description>
     </item>
     
   </channel>

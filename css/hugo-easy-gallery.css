@@ -138,11 +138,6 @@ figcaption styles
 .fancy-figure.caption-position-bottom figcaption {
     padding: 5px;
 }
-
-.gallery.caption-position-top figcaption,
-.fancy-figure.caption-position-top figcaption {
-    padding: 10px;
-}
 .gallery.caption-effect-fade figure:not(:hover) figcaption,
 .gallery.caption-effect-appear figure:not(:hover) figcaption,
 .fancy-figure.caption-effect-fade figure:not(:hover) figcaption,
@@ -152,7 +147,7 @@ figcaption styles
 }
 .gallery.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption,
 .fancy-figure.caption-effect-slide.caption-position-bottom figure:not(:hover) figcaption {
-    margin-bottom: 100%;
+    margin-bottom: -100%;
 }
 .gallery.caption-effect-slide.caption-position-center figure:not(:hover) figcaption,
 .fancy-figure.caption-effect-slide.caption-position-center figure:not(:hover) figcaption  {
