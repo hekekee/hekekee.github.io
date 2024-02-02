@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>esp32 on Heikki Stark</title>
     <link>https://heke.io/tags/esp32/</link>
@@ -10,15 +10,15 @@
       <link>https://heke.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 22 Aug 2021 20:10:58 +0300</lastBuildDate><atom:link href="https://heke.io/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Aug 2021 20:10:58 +0300</lastBuildDate>
+    <atom:link href="https://heke.io/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rave stick from addressable LEDs</title>
       <link>https://heke.io/posts/rave-stick/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
-      
       <guid>https://heke.io/posts/rave-stick/</guid>
       <description>A good friend of mine was having her 30th birthday party. The party had a disco/rave room, where everyone went and had a good time dancing to the music. While the world itself is what it currently is, I decided to bunker down for 2 weeks to make sure that I would not spread any diseases to my good friends. This made it impossible to go and get epic rave gear.</description>
     </item>
-    
   </channel>
 </rss>

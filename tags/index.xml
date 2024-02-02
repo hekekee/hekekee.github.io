@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Heikki Stark</title>
     <link>https://heke.io/tags/</link>
@@ -10,69 +10,57 @@
       <link>https://heke.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 22:44:07 +0200</lastBuildDate><atom:link href="https://heke.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Nov 2022 22:44:07 +0200</lastBuildDate>
+    <atom:link href="https://heke.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>guide</title>
       <link>https://heke.io/tags/guide/</link>
       <pubDate>Wed, 30 Nov 2022 22:44:07 +0200</pubDate>
-      
       <guid>https://heke.io/tags/guide/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pokémon</title>
       <link>https://heke.io/tags/pok%C3%A9mon/</link>
       <pubDate>Wed, 30 Nov 2022 22:44:07 +0200</pubDate>
-      
       <guid>https://heke.io/tags/pok%C3%A9mon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>mechkeebs</title>
       <link>https://heke.io/tags/mechkeebs/</link>
       <pubDate>Sun, 28 Nov 2021 19:36:59 +0200</pubDate>
-      
       <guid>https://heke.io/tags/mechkeebs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>diy</title>
       <link>https://heke.io/tags/diy/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
-      
       <guid>https://heke.io/tags/diy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>esp32</title>
       <link>https://heke.io/tags/esp32/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
-      
       <guid>https://heke.io/tags/esp32/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>fun</title>
       <link>https://heke.io/tags/fun/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
-      
       <guid>https://heke.io/tags/fun/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>keyboards</title>
       <link>https://heke.io/tags/keyboards/</link>
       <pubDate>Mon, 05 Oct 2020 17:36:14 +0300</pubDate>
-      
       <guid>https://heke.io/tags/keyboards/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

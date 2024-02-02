@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heikki Stark</title>
     <link>https://heke.io/</link>
@@ -10,75 +10,63 @@
       <link>https://heke.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 22:44:07 +0200</lastBuildDate><atom:link href="https://heke.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Nov 2022 22:44:07 +0200</lastBuildDate>
+    <atom:link href="https://heke.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pokémon Scarlet &amp; Violet Special Evolution Guide</title>
       <link>https://heke.io/posts/pokemon-scarlet-violet-evolves/</link>
       <pubDate>Wed, 30 Nov 2022 22:44:07 +0200</pubDate>
-      
       <guid>https://heke.io/posts/pokemon-scarlet-violet-evolves/</guid>
       <description>&lt;p&gt;Most of the special evolves in Pokémon Scarlet &amp;amp; Violet!
 I&amp;rsquo;ve seen too many guides with ads and bloat text. Here is a neat chart for what you&amp;rsquo;re looking for.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>50th keyboard - Giveaway</title>
       <link>https://heke.io/posts/giveaway/</link>
       <pubDate>Sun, 28 Nov 2021 19:36:59 +0200</pubDate>
-      
       <guid>https://heke.io/posts/giveaway/</guid>
       <description>** GIVEAWAY IS OVER **
 I built my first custom mechanical keyboard 19th of August, 2019. never would I have thought that I&amp;rsquo;d ever build 50 of them. It&amp;rsquo;s been crazy and feels unbelievable. The 50th keyboard is going to be a special one. I am giving it away in my Twitch channel!
 The 50th keyboard I decided to go with a SixtyFive keyboard by Mode Designs. The SixtyFive keyboard (also known as Mode65) is a highly configurable keyboard with a 65% layout.</description>
     </item>
-    
     <item>
       <title>Rave stick from addressable LEDs</title>
       <link>https://heke.io/posts/rave-stick/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
-      
       <guid>https://heke.io/posts/rave-stick/</guid>
       <description>A good friend of mine was having her 30th birthday party. The party had a disco/rave room, where everyone went and had a good time dancing to the music. While the world itself is what it currently is, I decided to bunker down for 2 weeks to make sure that I would not spread any diseases to my good friends. This made it impossible to go and get epic rave gear.</description>
     </item>
-    
     <item>
       <title>LogiMech</title>
       <link>https://heke.io/posts/logimech/</link>
       <pubDate>Thu, 03 Dec 2020 18:28:19 +0200</pubDate>
-      
       <guid>https://heke.io/posts/logimech/</guid>
       <description>Prologue Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&amp;rsquo;t.</description>
     </item>
-    
     <item>
       <title>Keyboards by Heikki</title>
       <link>https://heke.io/keyboards/</link>
       <pubDate>Mon, 05 Oct 2020 17:36:14 +0300</pubDate>
-      
       <guid>https://heke.io/keyboards/</guid>
       <description>&lt;p&gt;Browse my previous commission keyboards and find more information on how you can order a custom keyboard!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Keyboard portfolio</title>
       <link>https://heke.io/posts/keyboard-portfolio/</link>
       <pubDate>Tue, 12 May 2020 20:07:19 +0300</pubDate>
-      
       <guid>https://heke.io/posts/keyboard-portfolio/</guid>
       <description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video.
 For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video. This whole video was shot on my old apartment, in a quite smallish place and didn&amp;rsquo;t even take that long to shoot! Altogether it was a fun evening with keebs and cameras and friends.</description>
     </item>
-    
     <item>
       <title>About me</title>
       <link>https://heke.io/about/</link>
       <pubDate>Fri, 05 Jul 2019 15:58:45 +0300</pubDate>
-      
       <guid>https://heke.io/about/</guid>
       <description>It&amp;#39;s a me, Heikki!
-My name is Heikki and I live in Finland. I am currently working as a information security specialist at WithSecure, but during my free time I am part of a hacking team called LeftOvers and volunteering in KyberVPK - Community Cyber Response Force. You can see me in multiple InfoSec related communities. If you happen to see me, please come say hi!
+My name is Heikki and I live in Finland. I am currently working as a information security specialist at Elisa, but during my free time I am part of a hacking team called LeftOvers and volunteering in KyberVPK - Community Cyber Response Force. You can see me in multiple InfoSec related communities. If you happen to see me, please come say hi!
 In October 2020, I decided to start doing mechanical keyboard stuff (assemblying and fixing etc.</description>
     </item>
-    
   </channel>
 </rss>
