@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Heikki Stark</title>
     <link>https://heke.io/posts/</link>
@@ -9,7 +9,7 @@
       <url>https://heke.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://heke.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Nov 2022 22:44:07 +0200</lastBuildDate>
     <atom:link href="https://heke.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -26,31 +26,46 @@ I&amp;rsquo;ve seen too many guides with ads and bloat text. Here is a neat char
       <link>https://heke.io/posts/giveaway/</link>
       <pubDate>Sun, 28 Nov 2021 19:36:59 +0200</pubDate>
       <guid>https://heke.io/posts/giveaway/</guid>
-      <description>** GIVEAWAY IS OVER **
-I built my first custom mechanical keyboard 19th of August, 2019. never would I have thought that I&amp;rsquo;d ever build 50 of them. It&amp;rsquo;s been crazy and feels unbelievable. The 50th keyboard is going to be a special one. I am giving it away in my Twitch channel!
-The 50th keyboard I decided to go with a SixtyFive keyboard by Mode Designs. The SixtyFive keyboard (also known as Mode65) is a highly configurable keyboard with a 65% layout.</description>
+      <description>&lt;p&gt;** GIVEAWAY IS OVER **&lt;/p&gt;
+&lt;p&gt;I built my first custom mechanical keyboard 19th of August, 2019. never would I have thought that I&amp;rsquo;d ever build 50 of them. It&amp;rsquo;s been crazy and feels unbelievable. The 50th keyboard is going to be a special one. I am giving it away in my &lt;a href=&#34;https://twitch.tv/hekeke&#34;&gt;Twitch channel&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&#34;the-50th-keyboard&#34;&gt;The 50th keyboard&lt;/h2&gt;
+&lt;p&gt;I decided to go with a &lt;a href=&#34;https://shop.modedesigns.com/blogs/updates/updates-introducing-the-sixtyfive&#34;&gt;SixtyFive&lt;/a&gt; keyboard by Mode Designs.
+The SixtyFive keyboard (also known as Mode65) is a highly configurable keyboard with a 65% layout.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rave stick from addressable LEDs</title>
       <link>https://heke.io/posts/rave-stick/</link>
       <pubDate>Sun, 22 Aug 2021 20:10:58 +0300</pubDate>
       <guid>https://heke.io/posts/rave-stick/</guid>
-      <description>A good friend of mine was having her 30th birthday party. The party had a disco/rave room, where everyone went and had a good time dancing to the music. While the world itself is what it currently is, I decided to bunker down for 2 weeks to make sure that I would not spread any diseases to my good friends. This made it impossible to go and get epic rave gear.</description>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=https://heke.io/css/hugo-easy-gallery.css /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://heke.io/images/ravestick/ravestick1.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://heke.io/images/ravestick/ravestick1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A good friend of mine was having her 30th birthday party. The party had a disco/rave room, where everyone went and had a good time dancing to the music.
+While the world itself is what it currently is, I decided to bunker down for 2 weeks to make sure that I would not spread any diseases to my good friends. This made it impossible to go and get epic rave gear.
+To come up with something, I decided to start making a &lt;strong&gt;rave stick with addressable LEDs&lt;/strong&gt;! To my confusion, I could not find any similar project released as an open source project. The electronics within this project can easily be translated to cosplay projects or whatever else 😊 The files are available on &lt;a href=&#34;https://www.thingiverse.com/thing:4939787&#34;&gt;Thingiverse&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LogiMech</title>
       <link>https://heke.io/posts/logimech/</link>
       <pubDate>Thu, 03 Dec 2020 18:28:19 +0200</pubDate>
       <guid>https://heke.io/posts/logimech/</guid>
-      <description>Prologue Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&amp;rsquo;t.</description>
+      <description>&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;
+&lt;p&gt;Logitech Extreme 3D Pro is a legendary joystick/flightstick, however you want to say it. It was released in 2003 and it is still in production and sold for around 50€. You can get these for cheap. The joystick itself is really basic, but gives you a good variety of buttons and features for a small price. Even if the name gives you a small hint, that there might be a casual version of the joystick, but on the contrary, there isn&amp;rsquo;t. Only for Pros&#39;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keyboard portfolio</title>
       <link>https://heke.io/posts/keyboard-portfolio/</link>
       <pubDate>Tue, 12 May 2020 20:07:19 +0300</pubDate>
       <guid>https://heke.io/posts/keyboard-portfolio/</guid>
-      <description>Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video.
-For this video, I want to give a short shoutout to Ville Erkkilä and Kiehu Creative for coming up with the idea and filming the amazing video. This whole video was shot on my old apartment, in a quite smallish place and didn&amp;rsquo;t even take that long to shoot! Altogether it was a fun evening with keebs and cameras and friends.</description>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve been gettting a lot of requests and questions about mechanical keyboards. Mostly because of this one video.&lt;/p&gt;
+&lt;p&gt;For this video, I want to give a short shoutout to &lt;a href=&#34;https://twitter.com/VilleErkkila&#34;&gt;Ville Erkkilä&lt;/a&gt; and Kiehu Creative for coming up with the idea and filming the amazing video. This whole video was shot on my old apartment, in a quite smallish place and didn&amp;rsquo;t even take that long to shoot! Altogether it was a fun evening with keebs and cameras and friends.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
